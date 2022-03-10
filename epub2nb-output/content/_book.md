@@ -14,30 +14,57 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - prima_sezona_01.html
   - prima_sezona_02.html
-  - prima_sezona_03.html
-  - prima_sezona_04.html
   - prima_sezona_05.html
   - prima_sezona_06.html
   - prima_sezona_07.html
-  - prima_sezona_08.html
   - prima_sezona_09.html
-  - prima_sezona_10.html
   - prima_sezona_11.html
-  - prima_sezona_12.html
   - prima_sezona_13.html
-  - prima_sezona_14.html
   - prima_sezona_15.html
-  - prima_sezona_16.html
   - prima_sezona_17.html
-  - prima_sezona_18.html
   - prima_sezona_19.html
-  - prima_sezona_20.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: prima_sezona_05.html
+        title: Uprostřed města velká...
+        hiddenTitle: true
+      - link: prima_sezona_06.html
+        title: Věnování
+        hiddenTitle: true
+      - link: prima_sezona_07.html
+        title: ZIMNÍ PŘÍHODA
+        hiddenTitle: false
+      - link: prima_sezona_09.html
+        title: |-
+          MÁJOVÁ
+              KOUZELNICE
+        hiddenTitle: false
+      - link: prima_sezona_11.html
+        title: |-
+          ZAMŘÍŽOVANÝ
+              CHARLESTON
+        hiddenTitle: false
+      - link: prima_sezona_13.html
+        title: "VYHLÍDKA Z\_VĚŽE"
+        hiddenTitle: false
+      - link: prima_sezona_15.html
+        title: |-
+          HOTEL
+              PRO SOUROZENCE
+        hiddenTitle: false
+      - link: prima_sezona_17.html
+        title: |-
+          SMUTNÉ
+              PODZIMNÍ BLUES
+        hiddenTitle: false
+      - link: prima_sezona_19.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
