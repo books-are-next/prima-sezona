@@ -34,14 +34,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "prima_sezona_01.md",
             "xhtml": "prima_sezona_01.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -51,9 +52,9 @@
             "filename": "prima_sezona_02.md",
             "xhtml": "prima_sezona_02.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -63,9 +64,9 @@
             "filename": "prima_sezona_03.md",
             "xhtml": "prima_sezona_03.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -75,9 +76,9 @@
             "filename": "prima_sezona_04.md",
             "xhtml": "prima_sezona_04.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -92,8 +93,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Uprostřed města velká..."
           },
           {
             "filename": "prima_sezona_06.md",
@@ -104,8 +106,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "prima_sezona_07.md",
@@ -114,10 +117,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZIMNÍ PŘÍHODA"
           },
           {
             "filename": "prima_sezona_08.md",
@@ -127,7 +131,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -138,10 +142,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "MÁJOVÁ\n    KOUZELNICE"
           },
           {
             "filename": "prima_sezona_10.md",
@@ -151,7 +156,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -162,10 +167,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ZAMŘÍŽOVANÝ\n    CHARLESTON"
           },
           {
             "filename": "prima_sezona_12.md",
@@ -175,7 +181,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -186,10 +192,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "VYHLÍDKA Z VĚŽE"
           },
           {
             "filename": "prima_sezona_14.md",
@@ -199,7 +206,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -210,10 +217,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "HOTEL\n    PRO SOUROZENCE"
           },
           {
             "filename": "prima_sezona_16.md",
@@ -223,7 +231,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -234,10 +242,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "SMUTNÉ\n    PODZIMNÍ BLUES"
           },
           {
             "filename": "prima_sezona_18.md",
@@ -247,7 +256,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -258,24 +267,26 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "prima_sezona_20.md",
             "xhtml": "prima_sezona_20.html",
             "id": 19,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
-            "hungry": false,
+            "inToc": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -286,7 +297,7 @@
       "identifier": "11448154-f157-46a3-9bd6-bbe3930cbfe2",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T15:08:18.181Z"
+      "modified": "2022-03-10T15:33:04.128Z"
     },
     "chapters": [
       {
@@ -326,7 +337,7 @@
         "xhtml": "prima_sezona_06.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ZIMNÍ PŘÍHODA",
         "subtitleSuggest": "",
         "filename": "prima_sezona_07.md",
         "xhtml": "prima_sezona_07.html"
@@ -338,7 +349,7 @@
         "xhtml": "prima_sezona_08.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "MÁJOVÁ\n    KOUZELNICE",
         "subtitleSuggest": "",
         "filename": "prima_sezona_09.md",
         "xhtml": "prima_sezona_09.html"
@@ -350,7 +361,7 @@
         "xhtml": "prima_sezona_10.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ZAMŘÍŽOVANÝ\n    CHARLESTON",
         "subtitleSuggest": "",
         "filename": "prima_sezona_11.md",
         "xhtml": "prima_sezona_11.html"
@@ -362,7 +373,7 @@
         "xhtml": "prima_sezona_12.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VYHLÍDKA Z VĚŽE",
         "subtitleSuggest": "",
         "filename": "prima_sezona_13.md",
         "xhtml": "prima_sezona_13.html"
@@ -374,7 +385,7 @@
         "xhtml": "prima_sezona_14.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "HOTEL\n    PRO SOUROZENCE",
         "subtitleSuggest": "",
         "filename": "prima_sezona_15.md",
         "xhtml": "prima_sezona_15.html"
@@ -386,7 +397,7 @@
         "xhtml": "prima_sezona_16.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "SMUTNÉ\n    PODZIMNÍ BLUES",
         "subtitleSuggest": "",
         "filename": "prima_sezona_17.md",
         "xhtml": "prima_sezona_17.html"
@@ -398,7 +409,7 @@
         "xhtml": "prima_sezona_18.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "prima_sezona_19.md",
         "xhtml": "prima_sezona_19.html"
@@ -521,6 +532,6 @@
       "user": "books-are-next",
       "repo": "prima-sezona"
     },
-    "generatedAt": 1646924899013
+    "generatedAt": 1646926384967
   }
 }
