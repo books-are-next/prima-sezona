@@ -1,0 +1,167 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Prima sezóna",
+    "identifier": "11448154-f157-46a3-9bd6-bbe3930cbfe2",
+    "author": "Josef Škvorecký",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs",
+    "modified": "2022-03-10T15:08:18.181Z",
+    "Sigil version": "0.9.6"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_01.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_02.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_03.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_04.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_05.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_06.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_07.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_08.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_09.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/prima_sezona_20.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/page_styles.css"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/stylesheet.css"
+    },
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr_01.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr_02.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr_03.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obr_04.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "ZIMNÍ PŘÍHODA",
+      "href": "OEBPS/Text/prima_sezona_07.html"
+    },
+    {
+      "title": "MÁJOVÁ KOUZELNICE",
+      "href": "OEBPS/Text/prima_sezona_09.html"
+    },
+    {
+      "title": "ZAMŘÍŽOVANÝ CHARLESTON",
+      "href": "OEBPS/Text/prima_sezona_11.html"
+    },
+    {
+      "title": "VYHLÍDKA Z VĚŽE",
+      "href": "OEBPS/Text/prima_sezona_13.html"
+    },
+    {
+      "title": "HOTEL PRO SOUROZENCE",
+      "href": "OEBPS/Text/prima_sezona_15.html"
+    },
+    {
+      "title": "SMUTNÉ PODZIMNÍ BLUES",
+      "href": "OEBPS/Text/prima_sezona_17.html"
+    },
+    {
+      "title": "Poznámky pod čarou",
+      "href": "OEBPS/Text/prima_sezona_19.html"
+    }
+  ]
+}
