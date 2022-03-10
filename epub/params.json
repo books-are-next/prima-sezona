@@ -1,1 +1,526 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Prima sezóna",
+      "identifier": "11448154-f157-46a3-9bd6-bbe3930cbfe2",
+      "author": "Josef Škvorecký",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-10T15:08:18.181Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\ne-booknadpis1bezodstrankovani\ne-booknadpis2",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "e-bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\ne-bookprozatextkurziva\ne-bookprozatextkurzivabezpredsazeniprvradku\ne-booktirazacitacetextkurzivachar\ne-bookvenovanicxspfirst\ne-bookversebezpredsazeni6bzakurziva",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\ne-bookdejapoznamkytucnechar\ne-booktirazautoradilo\ne-booktirazpodnazevdila",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "prima_sezona_01.md",
+            "xhtml": "prima_sezona_01.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_02.md",
+            "xhtml": "prima_sezona_02.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_03.md",
+            "xhtml": "prima_sezona_03.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_04.md",
+            "xhtml": "prima_sezona_04.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_05.md",
+            "xhtml": "prima_sezona_05.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_06.md",
+            "xhtml": "prima_sezona_06.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_07.md",
+            "xhtml": "prima_sezona_07.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_08.md",
+            "xhtml": "prima_sezona_08.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_09.md",
+            "xhtml": "prima_sezona_09.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_10.md",
+            "xhtml": "prima_sezona_10.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_11.md",
+            "xhtml": "prima_sezona_11.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_12.md",
+            "xhtml": "prima_sezona_12.html",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_13.md",
+            "xhtml": "prima_sezona_13.html",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_14.md",
+            "xhtml": "prima_sezona_14.html",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_15.md",
+            "xhtml": "prima_sezona_15.html",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_16.md",
+            "xhtml": "prima_sezona_16.html",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_17.md",
+            "xhtml": "prima_sezona_17.html",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_18.md",
+            "xhtml": "prima_sezona_18.html",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_19.md",
+            "xhtml": "prima_sezona_19.html",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "prima_sezona_20.md",
+            "xhtml": "prima_sezona_20.html",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Prima sezóna",
+      "identifier": "11448154-f157-46a3-9bd6-bbe3930cbfe2",
+      "author": "Josef Škvorecký",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-10T15:08:18.181Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_01.md",
+        "xhtml": "prima_sezona_01.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_02.md",
+        "xhtml": "prima_sezona_02.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_03.md",
+        "xhtml": "prima_sezona_03.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_04.md",
+        "xhtml": "prima_sezona_04.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_05.md",
+        "xhtml": "prima_sezona_05.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_06.md",
+        "xhtml": "prima_sezona_06.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_07.md",
+        "xhtml": "prima_sezona_07.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_08.md",
+        "xhtml": "prima_sezona_08.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_09.md",
+        "xhtml": "prima_sezona_09.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_10.md",
+        "xhtml": "prima_sezona_10.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_11.md",
+        "xhtml": "prima_sezona_11.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_12.md",
+        "xhtml": "prima_sezona_12.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_13.md",
+        "xhtml": "prima_sezona_13.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_14.md",
+        "xhtml": "prima_sezona_14.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_15.md",
+        "xhtml": "prima_sezona_15.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_16.md",
+        "xhtml": "prima_sezona_16.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_17.md",
+        "xhtml": "prima_sezona_17.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_18.md",
+        "xhtml": "prima_sezona_18.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_19.md",
+        "xhtml": "prima_sezona_19.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "prima_sezona_20.md",
+        "xhtml": "prima_sezona_20.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr_01.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr_02.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr_03.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obr_04.jpg"
+      }
+    ],
+    "classes": [
+      "calibre1",
+      "calibre11",
+      "calibre12",
+      "calibre14",
+      "calibre17",
+      "calibre20",
+      "calibre22",
+      "calibre24",
+      "calibre25",
+      "calibre26",
+      "calibre5",
+      "calibre6",
+      "calibre7",
+      "calibre8",
+      "e-bookdejapoznamkytucnechar",
+      "e-bookhvezdickystred",
+      "e-booklicenceobrazek",
+      "e-booklicenceparagraf",
+      "e-booklicencetext",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis1bezodstrankovani",
+      "e-booknadpis2",
+      "e-bookodsazeniodstavceza",
+      "e-bookprima-sezona",
+      "e-bookprozatext",
+      "e-bookprozatextkurziva",
+      "e-bookprozatextkurzivabezpredsazeniprvradku",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktirazpodnazevdila",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-booktitulkapodnazev",
+      "e-bookvenovanicxspfirst",
+      "e-bookversebezpredsazeni6bza",
+      "e-bookversebezpredsazeni6bza1",
+      "e-bookversebezpredsazeni6bza2",
+      "e-bookversebezpredsazeni6bzakurziva",
+      "ebookpodpis",
+      "msofootnotereference",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection10",
+      "wordsection11",
+      "wordsection12",
+      "wordsection13",
+      "wordsection14",
+      "wordsection15",
+      "wordsection16",
+      "wordsection17",
+      "wordsection18",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6",
+      "wordsection7",
+      "wordsection8",
+      "wordsection9"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "prima-sezona"
+    },
+    "generatedAt": 1646924899013
+  }
+}
