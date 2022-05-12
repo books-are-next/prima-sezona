@@ -1,7 +1,5 @@
 ---
-title: |-
-  ZAMŘÍŽOVANÝ
-      CHARLESTON
+title: ZAMŘÍŽOVANÝ     CHARLESTON
 contentType: prose
 ---
 

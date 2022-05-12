@@ -1,7 +1,5 @@
 ---
-title: |-
-  SMUTNÉ
-      PODZIMNÍ BLUES
+title: SMUTNÉ     PODZIMNÍ BLUES
 contentType: prose
 ---
 

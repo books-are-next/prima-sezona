@@ -1,7 +1,5 @@
 ---
-title: |-
-  MÁJOVÁ
-      KOUZELNICE
+title: MÁJOVÁ     KOUZELNICE
 contentType: prose
 ---
 
