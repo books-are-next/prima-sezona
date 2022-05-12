@@ -1,7 +1,5 @@
 ---
-title: |-
-  HOTEL
-      PRO SOUROZENCE
+title: HOTEL     PRO SOUROZENCE
 contentType: prose
 ---
 

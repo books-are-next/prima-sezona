@@ -52,7 +52,7 @@
             "filename": "prima_sezona_02.md",
             "xhtml": "prima_sezona_02.html",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -288,8 +288,7 @@
         ],
         "devoured": false
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -297,7 +296,7 @@
       "identifier": "11448154-f157-46a3-9bd6-bbe3930cbfe2",
       "author": "Josef Škvorecký",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-10T15:55:07.174Z"
+      "modified": "2017-04-12T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -349,7 +348,7 @@
         "xhtml": "prima_sezona_08.html"
       },
       {
-        "titleSuggest": "MÁJOVÁ\n    KOUZELNICE",
+        "titleSuggest": "MÁJOVÁ     KOUZELNICE",
         "subtitleSuggest": "",
         "filename": "prima_sezona_09.md",
         "xhtml": "prima_sezona_09.html"
@@ -361,7 +360,7 @@
         "xhtml": "prima_sezona_10.html"
       },
       {
-        "titleSuggest": "ZAMŘÍŽOVANÝ\n    CHARLESTON",
+        "titleSuggest": "ZAMŘÍŽOVANÝ     CHARLESTON",
         "subtitleSuggest": "",
         "filename": "prima_sezona_11.md",
         "xhtml": "prima_sezona_11.html"
@@ -385,7 +384,7 @@
         "xhtml": "prima_sezona_14.html"
       },
       {
-        "titleSuggest": "HOTEL\n    PRO SOUROZENCE",
+        "titleSuggest": "HOTEL     PRO SOUROZENCE",
         "subtitleSuggest": "",
         "filename": "prima_sezona_15.md",
         "xhtml": "prima_sezona_15.html"
@@ -397,7 +396,7 @@
         "xhtml": "prima_sezona_16.html"
       },
       {
-        "titleSuggest": "SMUTNÉ\n    PODZIMNÍ BLUES",
+        "titleSuggest": "SMUTNÉ     PODZIMNÍ BLUES",
         "subtitleSuggest": "",
         "filename": "prima_sezona_17.md",
         "xhtml": "prima_sezona_17.html"
@@ -532,6 +531,6 @@
       "user": "books-are-next",
       "repo": "prima-sezona"
     },
-    "generatedAt": 1646927708063
+    "generatedAt": 1652351465975
   }
 }

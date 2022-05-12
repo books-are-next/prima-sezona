@@ -1,22 +1,36 @@
 {
-  "author": "Josef Škvorecký",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "skvorecky-prima-sezona-86d17ac",
-  "languagecode": "cs",
-  "modified": "2022-03-10T15:08:18.181Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Prima sezóna",
-  "revision": "86d17ac",
+  "author": "Josef Škvorecký",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "skvorecky-prima-sezona-3d84837",
+  "revision": "3d84837",
+  "readingOrder": [
+    "promo.html",
+    "prima_sezona_05.html",
+    "prima_sezona_06.html",
+    "prima_sezona_07.html",
+    "prima_sezona_09.html",
+    "prima_sezona_11.html",
+    "prima_sezona_13.html",
+    "prima_sezona_15.html",
+    "prima_sezona_17.html",
+    "prima_sezona_19.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Mar 10 2022 15:56:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1646927790505
+    "date": "Thu May 12 2022 10:40:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352012350
   },
   "documents": [
     {
-      "title": "Prima sezóna",
-      "file": "prima_sezona_02.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,15 +38,7 @@
       "order": 0,
       "prev": null,
       "next": "prima_sezona_05.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Prima sezóna",
@@ -42,7 +48,7 @@
       "ideas": 22,
       "role": "chapter",
       "order": 1,
-      "prev": "prima_sezona_02.html",
+      "prev": "promo.html",
       "next": "prima_sezona_06.html",
       "toc": [
         {
@@ -75,7 +81,7 @@
       ]
     },
     {
-      "title": "ZIMNÍ PŘÍHODA • Prima sezóna",
+      "title": "ZIMNÍ PŘÍHODA",
       "file": "prima_sezona_07.html",
       "words": 11048,
       "chars": 62749,
@@ -95,11 +101,11 @@
       ]
     },
     {
-      "title": "MÁJOVÁ\n    KOUZELNICE • Prima sezóna",
+      "title": "MÁJOVÁ     KOUZELNICE",
       "file": "prima_sezona_09.html",
       "words": 14997,
-      "chars": 90139,
-      "ideas": 776,
+      "chars": 90144,
+      "ideas": 775,
       "role": "chapter",
       "order": 4,
       "prev": "prima_sezona_07.html",
@@ -108,18 +114,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "MÁJOVÁ\nKOUZELNICE",
+          "name": "MÁJOVÁ     KOUZELNICE",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "ZAMŘÍŽOVANÝ\n    CHARLESTON • Prima sezóna",
+      "title": "ZAMŘÍŽOVANÝ     CHARLESTON",
       "file": "prima_sezona_11.html",
       "words": 10151,
-      "chars": 60007,
-      "ideas": 468,
+      "chars": 60012,
+      "ideas": 467,
       "role": "chapter",
       "order": 5,
       "prev": "prima_sezona_09.html",
@@ -128,14 +134,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "ZAMŘÍŽOVANÝ\nCHARLESTON",
+          "name": "ZAMŘÍŽOVANÝ     CHARLESTON",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "VYHLÍDKA Z VĚŽE • Prima sezóna",
+      "title": "VYHLÍDKA Z VĚŽE",
       "file": "prima_sezona_13.html",
       "words": 5734,
       "chars": 32723,
@@ -155,11 +161,11 @@
       ]
     },
     {
-      "title": "HOTEL\n    PRO SOUROZENCE • Prima sezóna",
+      "title": "HOTEL     PRO SOUROZENCE",
       "file": "prima_sezona_15.html",
       "words": 9285,
-      "chars": 52614,
-      "ideas": 558,
+      "chars": 52619,
+      "ideas": 557,
       "role": "chapter",
       "order": 7,
       "prev": "prima_sezona_13.html",
@@ -168,18 +174,18 @@
         {
           "index": 0,
           "level": 1,
-          "name": "HOTEL\nPRO SOUROZENCE",
+          "name": "HOTEL     PRO SOUROZENCE",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "SMUTNÉ\n    PODZIMNÍ BLUES • Prima sezóna",
+      "title": "SMUTNÉ     PODZIMNÍ BLUES",
       "file": "prima_sezona_17.html",
       "words": 9313,
-      "chars": 53771,
-      "ideas": 463,
+      "chars": 53776,
+      "ideas": 462,
       "role": "chapter",
       "order": 8,
       "prev": "prima_sezona_15.html",
@@ -188,14 +194,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "SMUTNÉ\nPODZIMNÍ BLUES",
+          "name": "SMUTNÉ     PODZIMNÍ BLUES",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Prima sezóna",
+      "title": "Poznámky pod čarou",
       "file": "prima_sezona_19.html",
       "words": 441,
       "chars": 2481,
@@ -215,11 +221,11 @@
       ]
     },
     {
-      "title": "Tiráž • Prima sezóna",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 179,
-      "chars": 1236,
-      "ideas": 25,
+      "words": 148,
+      "chars": 1055,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "prima_sezona_19.html",
@@ -237,14 +243,14 @@
   ],
   "totals": {
     "all": {
-      "words": 61260,
-      "chars": 356360,
-      "ideas": 3174
+      "words": 61229,
+      "chars": 356199,
+      "ideas": 3163
     },
     "chapters": {
       "words": 61075,
-      "chars": 355086,
-      "ideas": 3145
+      "chars": 355106,
+      "ideas": 3141
     }
   }
 }

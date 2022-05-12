@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - prima_sezona_02.html
+  - promo.html
   - prima_sezona_05.html
   - prima_sezona_06.html
   - prima_sezona_07.html
