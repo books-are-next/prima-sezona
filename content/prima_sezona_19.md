@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Spolek válečných veteránů. _Pozn. red._
 
 [\[2\]](./resources/undefined) Zde odpočívá Karl von Weber, poručík c. a k. XVIII. Jízdního regimentu. Padl hrdinskou smrtí za císaře a vlast na něj nikdy nezapomene. _Pozn. red._
@@ -120,3 +122,5 @@ contentType: prose
 [\[58\]](./resources/undefined) Ubytovávání. _Pozn. red._
 
 [\[59\]](./resources/undefined) Dobový název typu výstředně se oblékající a chovající dívky. _Pozn. red._
+
+</section>

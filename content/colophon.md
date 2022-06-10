@@ -2,6 +2,7 @@
 title: Tiráž
 ---
 
+<section>  
 **Josef Škvorecký**  
 **Prima sezóna**  
 **Text o nejdůležitějších věcech života**  
@@ -9,11 +10,8 @@ Edice E-knihovna
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
+</section>  
 1. vydání z 10. 6. 2022.
-
-***
-
-Znění tohoto textu vychází z díla Prima sezóna tak, jak bylo vydáno nakladatelstvím Galaxie v roce 1991 (ŠKVORECKÝ, Josef. _Prima sezóna: text o nejdůležitějších věcech života_. V GLX 1. vyd. Praha: Galaxie, 1991. 205 s. Planeta. ISBN 80-85204-01-0.).
 
 ***
 

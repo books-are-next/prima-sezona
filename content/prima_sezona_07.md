@@ -3,6 +3,8 @@ title: ZIMNÍ PŘÍHODA
 contentType: prose
 ---
 
+<section>
+
 Prima sezóna začíná:
 
 _Uprostřed města sem a tam  
@@ -10,19 +12,27 @@ pomalu teče líný proud.
 To, co si myslím, neříkám,  
 říkám, nač jen lze vzpomenout._
 
-  
+</section>
+
+<section>
 
 _Dívám se dívkám do očí a sním,  
 příjemně s nimi rozmlouvám.  
 Na to, co říkám, nemyslím,  
 to, co si myslím, neříkám…_
 
-  
+</section>
+
+<section>
 
                                          _JOSEF KRÁTKÝ  
                                                      Septima b_
 
+</section>
 
+
+
+<section>
 
 Seděl jsem na lavičce pod skokanským můstkem a dělal jsem, že se dívám na lidi v bazénu. Voda v bazénu byla zelená a průhledná a přes vysoké okno z mléčného skla hustě létaly drobné stíny. Venku sněžilo, svítilna v pasáži vrhala stíny sněhových vloček na mléčné sklo. Lázně hlaholily ječením holek, které kluci stahovali za nohy pod hladinu, a na protější straně bazénu seděla Irena se Zdeňkem a mlčeli. Díval jsem se, čekal jsem, co bude. Irena cákala nohama v zelené vodě, rukama se opírala o bílé kachlíky, opálená stehna měla trošku, ale příjemně rozpláclá a bylo jí vidět hluboko za ňadra. Zdeněk si románově hryzal spodní ret. Bylo mi jasné, že se pohádali.
 
@@ -989,3 +999,5 @@ To už jsem teda určitě svítil. Jako výstražné znamení. Na tom bílém sn
 A pak za rohem, jako tenkrát, slabounce zavrzaly něčí kroky a blížily se tím soumračným tichem. Ze stínu chumelenice se za rohem vynořil Zdeněk, měl přes rameno lyže a na sobě celtovou bundu s odznakem KČT, zastavil se před dveřma Irenina domu a v tom šeru si mě ani nevšim, odupal našlapaný sníh z bot, oplácal si ho z ramen a z toho pitomého odznaku KČT a s lyžema v náručí zmizel v chodbě. Takže se teda udobřili.
 
 Otočil jsem se, a jak jsem byl zapadlý až po kolena, začal jsem se brodit sněhem k nádraží. No dobrý, Pane Bože, dobrý. Tak přísný ale snad být nemusíš. Vždyť jsem zas tak moc neudělal. Pro těch pár dotyků tohle všechno. Já vím, měl jsem možná koupit dvě svíčky, asi jsem chtěl na jednu svíčku moc. Když ale tohle není v katechismu. Jak má člověk všechno vědět. Šel jsem, otrávený do nejhlubší hloubi duše, krásný, čistý, panenský sníh se velikými vločkami sypal na krásné město Kostelec, a já se na rohu ohlédl na ta dvě okna proti sobě, jedno ve třetím a druhé ve čtvrtém poschodí, obě otevřená a lákavá, ale prázdná. To bude teda prima sezóna.
+
+</section>

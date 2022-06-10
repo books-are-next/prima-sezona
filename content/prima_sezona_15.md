@@ -3,6 +3,8 @@ title: HOTEL     PRO SOUROZENCE
 contentType: prose
 ---
 
+<section>
+
 Prima sezóna se chýlí ke konci:
 
 _Jsou hory krásné jako ty,  
@@ -10,12 +12,18 @@ kdykoliv k tobě přijdu.
 Já když jsem s nimi, necítím  
 života bídu…_
 
-  
+</section>
+
+<section>
 
                              _JOSEF KRÁTKÝ  
                                         Septima b_
 
+</section>
 
+
+
+<section>
 
 Taky byla. Moc prima.
 
@@ -1148,3 +1156,5 @@ Tak takhle to bylo, pomyslel jsem si. A když se otec vrátil –
 „Nefouká, tati,“ pravila úslužně Alena.
 
 Jeli jsme, slunce zapadalo, připadal jsem si jako rodinka, když se vrací z nedělního výletu, a pod námi se z údolí vyhouplo krásné město Kostelec pod světélkujícím závojem bavlněného prachu. Najednou jsem nevěděl, jestli je Pán Bůh takový kruťas. I když teda s Irenou a s Alenou je podle všeho konec neboli, jak řekl pan rada, _finis_. _Sunt certim denique fines._ Plurál užil asi proto, že měl dcery dvě.
+
+</section>

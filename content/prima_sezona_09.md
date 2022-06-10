@@ -3,6 +3,8 @@ title: MÁJOVÁ     KOUZELNICE
 contentType: prose
 ---
 
+<section>
+
 Prima sezóna pokračuje:
 
 _Město se k spánku ukládá,  
@@ -12,12 +14,18 @@ po tajných dívčích komnatách,
 kde tajemným životem žijí  
 princezny s květy magnólií…_
 
-  
+</section>
+
+<section>
 
                                  _JOSEF KRÁTKÝ  
                                              Septima b_
 
+</section>
 
+
+
+<section>
 
 „Hele, Danny! Diž!“ řekl Benno.
 
@@ -165,7 +173,9 @@ Pohlédl jsem na ni, ona na mě.
 
 Bronzová hedvábná helma, skarabeové oči, jimiž pomalu plul zmenšený měsíc z perleti. Bílá majoliková růžička mezi dvěma kopečky. Zbyteček oplatkového kornoutu v pacce s růžovými nehty. Kolínka jak z béžového sametu, kolem nich v májovém větru pleskající krátká sukně – modrá jako májová obloha v noci! Se smaragdovými puntíky! To mě prve snad oslnilo slunce? Nebo ty oči? Nebo co? Skoro mě zamrazilo, ne úplně nepříjemně, nebo snad v některém z minulých životů byla ta holka chameleon nebo co?
 
-  
+</section>
+
+<section>
 
 „Co jsem měla před pěti minutami?“ zeptala se.
 
@@ -1590,3 +1600,5 @@ Tak sestřenky vypravovaly. Jak jsem si splet tu s cucflekem s tou bez cucflek
 A šel jsem.
 
 Když jsem se octl před domem, začalo pršet. Bylo mi to jedno. Bylo mi smutno, a jak začaly krápat ty kapky z té černavé oblohy, bylo mi najednou docela hezky smutno. V Mánesovic vile bylo Bennovo okno otevřené, déšť se rozšuměl a v něm, najednou, zase flexaton… snad se mi to zdálo… _hey-doo-dy, hay-doo-da_… zpíval kostelecký Rattenfänger, ten tlustý krysař mládí, a my tomu textu nerozuměli, tak jsme si ho vymýšleli, aby dával nějaký smysl… _where is the bird of Paradise_…_?_ Pohlédl jsem nahoru, k oknům Mariiny tetičky, a opravdu, vykláněla se z něj Marie a vytřepávala žlutou deku. Tetička byla asi nemocná a dobrá katolička Marie konala skutky… _it all seems wrong somehow_… zpíval Bennův flexaton, zahnul jsem pod jeho oknem k řece a táhnul jsem v dešti podle ní, veliké kapky dělaly na hladině veliká kola, kola se srážela s jinými koly, déšť šuměl a ochlazoval mě, ochlazoval… nízko nad lesem šedivé mraky… _cause you’re nobody’s sweetheart now_…
+
+</section>

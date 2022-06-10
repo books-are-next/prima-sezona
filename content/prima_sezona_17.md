@@ -3,6 +3,8 @@ title: SMUTNÉ     PODZIMNÍ BLUES
 contentType: prose
 ---
 
+<section>
+
 Prima sezóna končí:
 
 _Už nikdy víc se nesetkáme,  
@@ -10,12 +12,18 @@ a půjdeš tančit s jinými kluky na hory.
 Už nikdy víc se nesetkáme,  
 a z jiných lásek tě hlava rozbolí…_
 
-  
+</section>
+
+<section>
 
                                                _JOSEF KRÁTKÝ  
                                                           Septima b_
 
+</section>
 
+
+
+<section>
 
 Byl to konec. Aspoň pro zbytek léta. Pan rada poslal své neposlušné dcery na statek pana hraběte Czernína, kde byl jeho bratr hospodářským správcem. Manželka toho bratra přispívala články do _Mariánských jisker_. Holky byly tedy v naprostém bezpečí, aspoň pan rada si to myslel. Koncem srpna se ovšem Zdeněk najednou z Kostelce vypařil; dostal v Metále deset dní dovolenou, ovšem já nebyl mezi těmi, co věřili tomu, co rozhlásil: že jede ke své opět jednou churavé matce do Prahy. Asi v půli srpna mně trochu svitla naděje, protože jsem náhodou jel vlakem z Rounova v prázdném kupé s Marií Dreslerovou a vypadalo to, že na to divadýlko, co ho v zimě telefonicky ohlásila panu radovi, už zapomněla. Jenže když jsem k nim druhý den volal, řekl mi její brácha, že odjela na žně k babičce. Všechny ty holky byly nějaké spjaté s rodnou hroudou. Ale moc jsem se tím nemohl zabývat, neboť poslední týden v srpnu se konaly reparáty. Brynych dělal z latiny a neprospěl. Já se už taky loučil s oktávou, jenže ten den, co jsem byl na řadě, dostal pan profesor Bivoj koliku z přejedení angreštem a u reparátů ho zastupoval pan profesor Stařec. Ten mi dal příklad, který potom málem nevypočítal, ale nakonec ho vypočítal a já jsem prospěl. Alena taky svůj repec udělala, taky tím samým způsobem. Možnost ke konverzaci s ní mi to však neposkytlo. Na reparát ji přivedl pan rada, a když jí pan profesor Stařec dal dobrou, zase ji odvedl a druhý den ji poslal studovat sextu na dívčí reálné gymnázium Elišky Krásnohorské do Prahy, kde měl sestru profesorkou. Pocházel z rozvětvené rodiny a Alenu v Praze ubytoval u té sestry. Měla dva syny, oba bohoslovce. Katolické.
 
@@ -958,3 +966,5 @@ Hrál jsem, nekoukal jsem se do not, za mnou Benno na sordinované trumpetě pla
 Otevřely se dveře, v nich se objevil pan četnický strážmistr Nosek a hned nám rukama naznačoval, že máme hrát dál, že žádná kontrola nejde. Rozhlédl se. Od stolu v rohu, kde seděl Jířa Horák, se zvedl Leopold Váňa a přistoupil k panu Noskovi. Pan Nosek mu něco řval do ucha, muselo být špatně rozumět, protože jsme dělali strašný, kvílivý rámus, Leopold Váňa sebou škubl, zbled nebo co. Potom vyvalil oči na nás, na kapelu, jako smrt bledý, hnul se, obcházel sál a šel kolem parketu. Lexa nastoupil do bluesového sóla a vyšíval je, krásně, láskyplně v nebeském rejstříku. Ve stratosféře… _did you ever, ever dream, lucky baby_… Leopold Váňa se propletl kolem sálu a kolem našeho pódia, vylezl na ně zezadu, přišel až ke mně a postavil se mezi mě a Lexu, čekal, až snad dohrajem… _you gonna long for me, baby_… hrál Lexa, pískal v nedostupných výškách strašlivého podzimního stesku… _one of these cold rainy days_… Skončil, do sóla vstoupil Fonda, do countbasieovského sóla, jako když kapky deště dopadají na plechovou střechu. Leopold Váňa řekl něco Lexovi, Lexa tak jako na židli napůl vyskočil, Leopold Váňa někam zmizel. „Co je?“ řekl jsem Lexovi do pauzy. „Zastřelili fotra,“ řekl Lexa a byl doopravdy, fakticky, Bože, bledý, vstal, zmizel kamsi dozadu, musel jsem do sóla já, všechno se se mnou zatočilo… všechno to končí… touhle válkou to všechno končí… už je začínají střílet… naše mládí… ty buržousty… _Did you ever dream, lucky baby_… zavolal jsem bolestně, do ztracena, nikdo mě neslyšel… _and wake up_… _cold_… _in the dark_…
 
 _Sigtuna 1967 – Toronto 1972_
+
+</section>

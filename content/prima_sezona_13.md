@@ -3,18 +3,26 @@ title: "VYHLÍDKA Z\_VĚŽE"
 contentType: prose
 ---
 
+<section>
+
 Prima sezóna vrcholí:
 
 _A on tě bude malovati  
 (malovati = milovati)  
 a bude tě zvát do své chaty…_
 
-  
+</section>
+
+<section>
 
                                _JOSEF KRÁTKÝ  
                                           Septima b_
 
+</section>
 
+
+
+<section>
 
 Tentokrát byl plán tutový a bylo to vymyšleno tak: Zdeněk Pivonka odjel do Prahy k rodičům, protože dostal telegram, že mu onemocněla matka. Irena už dávno Rosťovi slíbila, že mu bude sedět modelem k portrétu; a protože tou dobou patřilo k ctižádosti všech kosteleckých holek mít od Rosti portrét, nebude se Irena jistě zdráhat využít Zdeňkovy nepřítomnosti a přijít do Rosťovy chaty v lese, kterou používal jako ateliér. Skicy k portrétům si Rosťa schovával, a holkám neříkal proč. Jelikož jim ale dával zadarmo hotové a děsně barevné portréty, žádná po tom nepátrala. Já jsem podle toho plánu měl, jako rozervaný marnou láskou, bloudit ten den po lese a jako náhodou zajít po obědě do Pittermanovic chaty. Potom měl Rosťa jako říct, že asi tak na hodinku na dvě Irenu nepotřebuje, neb pro dokončení obrazu je lepší, když tam model není, aby ho nerozptyloval. Rosťa často holky poučoval, že je expresionista, to znamená, že do jejich obličejů promítá své vnitřní stavy, které v něm vyvolávají. Té dvouhodinové pauzy, potřebné k tomu, aby Rosťa promítl své stavy do Ireny, jsem měl využít já. Počítali jsme, že ji pozvu na procházku do lesa, a dál, mezi skály, a tak dále, jak nejdál to půjde. Rosťa se měl zatím vytratit do Kostelce a nechat v chatě nějakou výmluvu, takže až se vrátíme z procházky s Irenou uvedenou do přístupné nálady, bude tam jen jeho vzkaz a nedokončený portrét. Potom už bude záležet jen na mně, jak dlouho se mnou Irena v chatě zůstane. Pro jistotu dal Rosťa na palandu čisté prostěradlo.
 
@@ -661,3 +669,5 @@ Co si řekli, když se tak všichni tři sešli, to mi ušlo. Uviděl jsem jenom
 Na nebi visel veliký měsíc, blíž, než když člověk stojí na zemi. Poslouchal jsem Kršákovo kázání, jací jsme byli blbci, trestuhodní blbci, a jak horolezectví je jedním z nejbezpečnějších sportů, pokud se přesně dodržují pravidla. Jak vede k pravému kamarádství a cvičí věrnost a obětavost, ačkoliv je teda úplně bezpečné. Kršák takto kázal a já vzpomínal na to, jak Irena odfoukla mou duši a já její, kolem měsíce se udělala zelená koróna a na Kostelec v hloubce pod námi padal jemný bavlněný prach, který přes den k nebi vyfoukly prašné věže přádelen, a v měsíčním světle světélkoval jako nějaké obrovské hejno kobylek se slídovými křídly. Teď zase řečnil Leneček, jak to horolezectví vede k přátelství na život a na smrt, ačkoliv teda je úplně bezpečné, a já si pomyslel, co asi dělají ty dvě duše v korunách borovic, jestli se hledají, jestli se najdou a jestli snad, v případě opačných pohlaví, nevede horolezectví taky k pravé lásce. Zas kázal Kršák, zezdola jsem slyšel chrápat a krkat nějakou veverku, děsně se v létě přežíraly, odněkud houkala sova a jakýsi netopýr se na nás přiletěl podívat a pak se na nás z výšky vysral, tedy doslova, spadlo to Kršákovi na klobouk a on to rozmazal po pískovci, zafoukal vítr a prašné vločky se roztančily nad Kostelcem, nad tím krásným mlžným městem, kde kvůli těm vločkám trpělo padesát procent obyvatelstva průduškovým katarem. Ty duše se určitě najdou, určitě, musí. Irena se teda přesvědčila, přesvědčila se teda, kdo je přelétavý a kdo ne, jemu dovolila, a podved ji s nějakou peroxydovou blondýnkou, a mně nedovolila, a – nepodved jsem ji ani s krásnýma holkama Weberovic, poněvadž se mi to nepovedlo, to je fakt, ale kdyby mi dovolila, přísahám, Pane Bože, že já bych ji nepodved, Irenku, jak bych moh! Najednou se mi zdálo, že dnes jsem se konečně nedopustil žádného hříchu, ani jsem nelhal. Přiznal jsem se Ireně, jak jsme to na ni měli nalíčené, takže to se tím zneutralizovalo, a zdálo se mi, že Pán Bůh přece jen není tak nespravedlivý, jak se někdy zdá, a že mě dnes vlastně odměnil. No ano. Mě odměnil a Zdeňka potrestal. A to je, páni, teprv začátek! Co teprv bude! Páni! Ach Bože! Pane Bože! A děkoval jsem tomu dost nevyzpytatelnému Pánovi, pod měsícem, který zatím skoro zhnědnul a pluly v něm malé žluté tečky, tak žluté, skoro jako Ireniny zřítelnice.
 
 Pak sádra ztvrdla a bez nehody jsme slanili do tmy pod borovice. Teď teprv to bude prima sezóna!
+
+</section>
