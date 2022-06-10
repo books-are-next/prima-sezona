@@ -10,6 +10,8 @@ ulehl do kapradí.
 Na zlatý saxofon mi hrál  
 charleston mládí…_
 
+  
+
                          _JOSEF KRÁTKÝ  
                                     Septima b_
 
@@ -268,6 +270,8 @@ Papírová řeka plná modrých vlajek
 Kapříci pstruzi a květy stromů  
 vesele tančí při charlestonu_
 
+  
+
 Co s tím?
 
 „A co ta noha?“ otázal se temně Kühl.
@@ -326,6 +330,8 @@ _„In der Kanzlei dreifache Kapelle spielt um zu tanzen.
 Ein Fluss aus Papier ist gefüllt mit blauen Karpen.  
 Die Forellen und die Blüten tanzen  
 fröhlich für Kraft durch Freude._
+
+  
 
 Je to teď bez chyb?“ otázal se.
 
@@ -413,6 +419,8 @@ _„Im Walde eine Blasskapelle spielt zum Tanz.
 Der blaue Fluss spiegelt die braunen Fahnen.  
 Burschen und Mädels unter den blühenden Bäumen  
 fröhlich tanzen den volkstümlichen Ländler.“_
+
+  
 
 Vstal, hleděl spokojeně do libreta, skoro se usmíval. Probůh. Tak ona asi poezie má opravdu nějakou sílu, jak o ní vždycky básnil pan profesor Vondřichovský, který sice, pokud šlo o vědu, byl slabý, když Němci zavřeli univerzitu, byl teprve v třetím semestru, ale místo zkoušení radši přednášel básničky. Že jako i zatvrzelého člověka změní, prý už staří Řekové to věděli. Jak teda Nezvalovy charlestony zkatarzovaly pana Reichskommissäre Kühla bylo podivuhodné. Básničku sice zprznil, ale poměrně vynálezavě, a zapomněl přitom na povinnou říšskoněmeckou ponurost.
 

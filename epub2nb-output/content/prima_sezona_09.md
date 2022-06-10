@@ -12,6 +12,8 @@ po tajných dívčích komnatách,
 kde tajemným životem žijí  
 princezny s květy magnólií…_
 
+  
+
                                  _JOSEF KRÁTKÝ  
                                              Septima b_
 
@@ -162,6 +164,8 @@ Pohlédl jsem na ni, ona na mě.
 „Já – to sem teda úplně nebo co – ale dyť vy ste před pěti minutama měla –“
 
 Bronzová hedvábná helma, skarabeové oči, jimiž pomalu plul zmenšený měsíc z perleti. Bílá majoliková růžička mezi dvěma kopečky. Zbyteček oplatkového kornoutu v pacce s růžovými nehty. Kolínka jak z béžového sametu, kolem nich v májovém větru pleskající krátká sukně – modrá jako májová obloha v noci! Se smaragdovými puntíky! To mě prve snad oslnilo slunce? Nebo ty oči? Nebo co? Skoro mě zamrazilo, ne úplně nepříjemně, nebo snad v některém z minulých životů byla ta holka chameleon nebo co?
+
+  
 
 „Co jsem měla před pěti minutami?“ zeptala se.
 

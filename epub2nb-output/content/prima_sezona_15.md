@@ -10,6 +10,8 @@ kdykoliv k tobě přijdu.
 Já když jsem s nimi, necítím  
 života bídu…_
 
+  
+
                              _JOSEF KRÁTKÝ  
                                         Septima b_
 
