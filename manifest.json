@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-prima-sezona-1346fd5",
-  "revision": "1346fd5",
+  "identifier": "skvorecky-prima-sezona-cb62e7c",
+  "revision": "cb62e7c",
   "readingOrder": [
     "promo.html",
     "prima_sezona_05.html",
@@ -24,8 +24,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:19:07 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870747566
+    "date": "Fri Jun 10 2022 17:55:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883719904
   },
   "documents": [
     {
@@ -63,9 +63,9 @@
     {
       "title": "Prima sezóna",
       "file": "prima_sezona_06.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 11,
+      "chars": 53,
+      "ideas": 2,
       "role": "chapter",
       "order": 2,
       "prev": "prima_sezona_05.html",
@@ -223,9 +223,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 148,
-      "chars": 1055,
-      "ideas": 18,
+      "words": 79,
+      "chars": 615,
+      "ideas": 9,
       "role": "colophon",
       "order": null,
       "prev": "prima_sezona_19.html",
@@ -243,14 +243,14 @@
   ],
   "totals": {
     "all": {
-      "words": 61229,
-      "chars": 356199,
-      "ideas": 3163
+      "words": 61171,
+      "chars": 355812,
+      "ideas": 3156
     },
     "chapters": {
-      "words": 61075,
-      "chars": 355106,
-      "ideas": 3141
+      "words": 61086,
+      "chars": 355159,
+      "ideas": 3143
     }
   }
 }

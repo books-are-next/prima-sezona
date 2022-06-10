@@ -3,6 +3,8 @@ title: ZAMŘÍŽOVANÝ     CHARLESTON
 contentType: prose
 ---
 
+<section>
+
 Prima sezóna málem skončí:
 
 _A měsíc, co se na ni smál,  
@@ -10,12 +12,18 @@ ulehl do kapradí.
 Na zlatý saxofon mi hrál  
 charleston mládí…_
 
-  
+</section>
+
+<section>
 
                          _JOSEF KRÁTKÝ  
                                     Septima b_
 
+</section>
 
+
+
+<section>
 
 Z orchestru jsem Kristýně, jak stála na kraji jeviště, viděl trochu pod sukně. Ale sukně byla krinolína, takže moc vidět nebylo. Jenom když se prudce otočila a zvon krinolíny se nebezpečně zhoupl k jedné straně, objevil se černý podvazek, který jí držel bílé punčochy nad kolínkama.
 
@@ -270,7 +278,9 @@ Papírová řeka plná modrých vlajek
 Kapříci pstruzi a květy stromů  
 vesele tančí při charlestonu_
 
-  
+</section>
+
+<section>
 
 Co s tím?
 
@@ -331,7 +341,9 @@ Ein Fluss aus Papier ist gefüllt mit blauen Karpen.
 Die Forellen und die Blüten tanzen  
 fröhlich für Kraft durch Freude._
 
-  
+</section>
+
+<section>
 
 Je to teď bez chyb?“ otázal se.
 
@@ -420,7 +432,9 @@ Der blaue Fluss spiegelt die braunen Fahnen.
 Burschen und Mädels unter den blühenden Bäumen  
 fröhlich tanzen den volkstümlichen Ländler.“_
 
-  
+</section>
+
+<section>
 
 Vstal, hleděl spokojeně do libreta, skoro se usmíval. Probůh. Tak ona asi poezie má opravdu nějakou sílu, jak o ní vždycky básnil pan profesor Vondřichovský, který sice, pokud šlo o vědu, byl slabý, když Němci zavřeli univerzitu, byl teprve v třetím semestru, ale místo zkoušení radši přednášel básničky. Že jako i zatvrzelého člověka změní, prý už staří Řekové to věděli. Jak teda Nezvalovy charlestony zkatarzovaly pana Reichskommissäre Kühla bylo podivuhodné. Básničku sice zprznil, ale poměrně vynálezavě, a zapomněl přitom na povinnou říšskoněmeckou ponurost.
 
@@ -953,3 +967,5 @@ Chudák Kristýna. Mít takhle středověkého rodiče. Zvednul jsem se ze země
 Za co mě zas trestáš, Pane Bože? Pročs teda vůbec dělal holky, když si katolický křesťan, jak to vypadá, na ně snad nesmí ani sáhnout? Nebo to bylo za tu lež s ukecáváním Kühla? Přece jsem jí nemoh říct, proč jsem doopravdy nepřišel. Je to holka, měla by trhání to rozkecat. Holky, aspoň se to říká, je vždycky mají. Nemohl jsem ji uvést do takého pokušení. Pane Bože, co jsi zač? Já chápu, že na lidi musí být přísnost. Ale tohle už je trochu přehnaný. V mym případě myslím. Vždyť jsem zas tak moc neudělal.
 
 Teda, de facto, nic jsem neudělal, řekl jsem si v duchu trpce. Ani ň, s Kristýnou. Ani charleston jsem si s ní nezatancoval. Za zelenými keři na kraji háječku na mě vykukoval mýtský kostel růžovou věží, na okapu jeho červené cibule se cukrovaly hrdličky. Ty můžou, pomyslel jsem si. Ty můžou, Pane Bože, a jsou to jenom zvířata. To je teda pěkná nespravedlnost!
+
+</section>
