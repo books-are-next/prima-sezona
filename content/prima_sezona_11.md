@@ -16,11 +16,10 @@ charleston mládí…_
 
 <section>
 
-                         _JOSEF KRÁTKÝ  
-                                    Septima b_
+            _JOSEF KRÁTKÝ  
+            Septima b_
 
 </section>
-
 
 
 <section>
