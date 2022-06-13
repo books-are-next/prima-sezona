@@ -16,11 +16,10 @@ Já když jsem s nimi, necítím
 
 <section>
 
-                             _JOSEF KRÁTKÝ  
-                                        Septima b_
+            _JOSEF KRÁTKÝ  
+            Septima b_
 
 </section>
-
 
 
 <section>
