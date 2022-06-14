@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-5c92449';
+const CACHE = 'cache-fadc224';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./prima_sezona_05.html","./prima_sezona_06.html","./prima_sezona_07.html","./prima_sezona_09.html","./prima_sezona_11.html","./prima_sezona_13.html","./prima_sezona_15.html","./prima_sezona_17.html","./prima_sezona_19.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001.jpg","./resources/obalka.jpg","./resources/obr_01.jpg","./resources/obr_02.jpg","./resources/obr_03.jpg","./resources/obr_04.jpg","./resources/upoutavka_eknihy.jpg"]);
+        return cache.addAll(["./","./colophon.html","./index.html","./manifest.json","./prima_sezona_05.html","./prima_sezona_06.html","./prima_sezona_07.html","./prima_sezona_09.html","./prima_sezona_11.html","./prima_sezona_13.html","./prima_sezona_15.html","./prima_sezona_17.html","./prima_sezona_19.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/obalka.jpg","./resources/obr_01.jpg","./resources/obr_02.jpg","./resources/obr_03.jpg","./resources/obr_04.jpg","./resources/upoutavka_eknihy.jpg","./style/style.min.css","./scripts/bundle.js","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
