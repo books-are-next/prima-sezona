@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-prima-sezona-fadc224",
-  "revision": "fadc224",
+  "identifier": "skvorecky-prima-sezona-5ef2240",
+  "revision": "5ef2240",
   "readingOrder": [
     "promo.html",
     "prima_sezona_05.html",
@@ -24,8 +24,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:58:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272727885
+    "date": "Thu Jun 23 2022 10:22:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655979773281
   },
   "documents": [
     {
