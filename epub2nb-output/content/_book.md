@@ -24,7 +24,7 @@ readingOrder:
   - prima_sezona_15.html
   - prima_sezona_17.html
   - prima_sezona_19.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
