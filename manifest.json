@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-prima-sezona-b29476c",
-  "revision": "b29476c",
+  "identifier": "skvorecky-prima-sezona-c653dba",
+  "revision": "c653dba",
   "readingOrder": [
     "promo.html",
     "prima_sezona_05.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:06:04 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188364130
+    "date": "Thu Jul 21 2022 14:34:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414061644
   },
   "documents": [
     {
@@ -224,7 +224,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 176,
-      "chars": 1230,
+      "chars": 1233,
       "ideas": 19,
       "role": "about",
       "order": null,
@@ -244,7 +244,7 @@
   "totals": {
     "all": {
       "words": 61268,
-      "chars": 356427,
+      "chars": 356430,
       "ideas": 3166
     },
     "chapters": {
