@@ -21,6 +21,124 @@ charleston mládí…_
 
 </section>
 
+[^1]: Spolek válečných veteránů. _Pozn. red._
+
+[^2]: Zde odpočívá Karl von Weber, poručík c. a k. XVIII. Jízdního regimentu. Padl hrdinskou smrtí za císaře a vlast na něj nikdy nezapomene. _Pozn. red._
+
+[^3]: Ach! Krysař z Kostelce! _Pozn. red._
+
+[^4]: To je úplně magické. _Pozn. red._
+
+[^5]: Ale kde má flétnu? _Pozn. red._
+
+[^6]: Ach, to. _Pozn. red._
+
+[^7]: S tátou. _Pozn. red._
+
+[^8]: Táta je Rakušák. _Pozn. red._
+
+[^9]: Sukničkáři. _Pozn. red._
+
+[^10]: Strýček. _Pozn. red._
+
+[^11]: U vojenského hřbitova. _Pozn. red._
+
+[^12]: Americká filmová komedie z roku 1937. _Pozn. red._
+
+[^13]: Je to krysař z Kostelce? _Pozn. red._
+
+[^14]: Vy nevěříte mým kouzlům! _Pozn. red._
+
+[^15]: Nic jiného? _Pozn. red._
+
+[^16]: Není-liž pravda? _Pozn. red._
+
+[^17]: Darebák. _Pozn. red_
+
+[^18]: Omluvte mě na moment! _Pozn. red._
+
+[^19]: Ach ten. To byl někdo jiný. _Pozn. red._
+
+[^20]: Opravdu? A jak? _Pozn. red._
+
+[^21]: Vy mě milujete. To je vidět. _Pozn. red._
+
+[^22]: Teď pište. _Pozn. red._
+
+[^23]: Stát! _Pozn. red._
+
+[^24]: No jasně … slečna Weberová. _Pozn. red._
+
+[^25]: Zatraceně, znovu! _Pozn. red._
+
+[^26]: Ach tohle. To nic. _Pozn. red._
+
+[^27]: To bych zemřela. _Pozn. red._
+
+[^28]: Dusítko. _Pozn. red._
+
+[^29]: Ale ne na ústa! _Pozn. red._
+
+[^30]: Sám jste to řekl. _Pozn. red._
+
+[^31]: … pak mě miluje absolutně. _Pozn. red._
+
+[^32]: Jsem spojena s temnými silami… _Pozn. red._
+
+[^33]: No tak… četli jste to? _Pozn. red._
+
+[^34]: … pro kulturní činnost v protektorátu Čechy a Morava… _Pozn. red._
+
+[^35]: Čtěte nahlas. _Pozn. red._
+
+[^36]: …já nevím, ale mě se zdá, že tam žádné nejsou. _Pozn. red._
+
+[^37]: Žádné? Říkáte žádné? _Pozn. red._
+
+[^38]: Plněné modrými „kapry“ (v němčině Karpfen). _Pozn. red._
+
+[^39]: Plněná ryba, Danieli, je tradiční jídlo východoevropských Židů. Velmi chutné. _Pozn. red._
+
+[^40]: Radostí k síle – nacistická organizace KdF, jejímž cílem bylo ideologicky ovlivňovat a organizovat volný čas obyvatelstva. _Pozn. red._
+
+[^41]: … moji čeští pánové… _Pozn. red._
+
+[^42]: … zvrhlé umění – termín, který byl používán nacisty pro většinu moderního umění. _Pozn. red._
+
+[^43]: … krev a půda. _Pozn. red._
+
+[^44]: Prosím. _Pozn. red._
+
+[^45]: Co chcete? _Pozn. red._
+
+[^46]: Prosím… To je chyba. _Pozn. red._
+
+[^47]: A jaká chyba to má být? _Pozn. red._
+
+[^48]: Má tam být přehláska. _Pozn. red._
+
+[^49]: To je poetický obraz. _Pozn. red_.
+
+[^50]: Druh alpského tance. _Pozn. red._
+
+[^51]: Chlapci a dívky. _Pozn. red._
+
+[^52]: Zábavná kapela. _Pozn. red_.
+
+[^53]: Dechovka. _Pozn. red._
+
+[^54]: Teď je to mnohem hezčí. _Pozn. red._
+
+[^55]: Schváleno. _Pozn. red._
+
+[^56]: Školní písemná zkouška, kompozice (slang.) _Pozn. red._
+
+[^57]: Náhražku hlavy. _Pozn. red._
+
+[^58]: Ubytovávání. _Pozn. red._
+
+[^59]: Dobový název typu výstředně se oblékající a chovající dívky. _Pozn. red._
+
 
 <section>
 
@@ -238,13 +356,13 @@ Podíval jsem se na ni jako na zrádce, ale holčičí oči byly legračně vá�
 
 * * *
 
-„_Na also,_“ pravil Herr Regierungskomissär Kühl velice nevlídně. „_Haben sie’s gelesen?_“[\[33\]](./resources/undefined)
+„_Na also,_“ pravil Herr Regierungskomissär Kühl velice nevlídně. „_Haben sie’s gelesen?_“[^33]
 
-Stál rozkročen ve vypucovaných holínkách a v uniformě SA vedle svého obrovitého stolu, vpravo od něho na stěně jeho Vůdce, vymalovaný realisticky a rovněž nevlídně. Já seděl na nízké židli pro návštěvy a v ruce jsem držel Jarkovo libreto, které jsem podle předpisů _für kulturelle Tätigkeit im Protektorat Böhmen und Mähren_[_\[34\]_](./resources/undefined) přeložil k schválení do němčiny, již jsem se naučil od pana učitele Katze. Schvalovací orgán byl pan regierungskommissär Kühl.
+Stál rozkročen ve vypucovaných holínkách a v uniformě SA vedle svého obrovitého stolu, vpravo od něho na stěně jeho Vůdce, vymalovaný realisticky a rovněž nevlídně. Já seděl na nízké židli pro návštěvy a v ruce jsem držel Jarkovo libreto, které jsem podle předpisů _für kulturelle Tätigkeit im Protektorat Böhmen und Mähren_[_\[34\]_](../Text/prima_sezona_19.html#_ftn34) přeložil k schválení do němčiny, již jsem se naučil od pana učitele Katze. Schvalovací orgán byl pan regierungskommissär Kühl.
 
 „Javól,“ řekl jsem.
 
-„_Lesen sie’s laut!_“[\[35\]](./resources/undefined)
+„_Lesen sie’s laut!_“[^35]
 
 Sebral jsem libreto, a teda jsem četl. Byla to báseň od Vítězslava Nezvala, ale Jarka ji samozřejmě, pamětliv směrnic _für kulturelle Tätigkeit im Protektorat Böhmen und Mähren_, vydával za svou vlastní.
 
@@ -256,19 +374,19 @@ _„In der Kanzlei dreifache Kapelle spielt, um zu tanzen. Ein Fuss aus Papier i
 
 „_Na also?_“ otázal se absolutně nevlídně pan říšský komisař.
 
-„Dobrá báseň to není,“ pravil jsem svou němčinou. „To ne. Ale Říši nepřátelské myšlenky, prosím, _ich weiss nicht, aber mir scheint es sind keine drin_[_\[36\]_](./resources/undefined)_._“
+„Dobrá báseň to není,“ pravil jsem svou němčinou. „To ne. Ale Říši nepřátelské myšlenky, prosím, _ich weiss nicht, aber mir scheint es sind keine drin_[_\[36\]_](../Text/prima_sezona_19.html#_ftn36)_._“
 
-„_Keine, sagen sie? Keine?_“[\[37\]](./resources/undefined) Regierungskommissär Kühl se zhoupl v holinkách a udeřil dlaní na stůl. „A co je tohle? _Gefüllt mit blauen Karpen_[_\[38\]_](./resources/undefined)_?_“
+„_Keine, sagen sie? Keine?_“[^37] Regierungskommissär Kühl se zhoupl v holinkách a udeřil dlaní na stůl. „A co je tohle? _Gefüllt mit blauen Karpen_[_\[38\]_](../Text/prima_sezona_19.html#_ftn38)_?_“
 
 „To je, prosím – taková metafora –“
 
 „Víte, co je _Gefüllte Fisch?_“ zařval pan říšský komisař.
 
-„Prosím, to –“ věděl jsem to dobře. Občas, když jsem přišel na hodinu k panu učiteli Katzovi moc brzo, ještě je dojídal. Dával mi pravidelně ochutnat a vždy týmiž slovy mě poučil: _Gefüllte Fisch, Daniel, das ist eine traditionelle Speisse der Osteuropäischen Juden. Sehr schmackhaft._[_\[39\]_](./resources/undefined)“
+„Prosím, to –“ věděl jsem to dobře. Občas, když jsem přišel na hodinu k panu učiteli Katzovi moc brzo, ještě je dojídal. Dával mi pravidelně ochutnat a vždy týmiž slovy mě poučil: _Gefüllte Fisch, Daniel, das ist eine traditionelle Speisse der Osteuropäischen Juden. Sehr schmackhaft._[_\[39\]_](../Text/prima_sezona_19.html#_ftn39)“
 
 _Schmackhaft_ mi nepřipadaly, ale v momentální situaci to nepadalo na váhu. Říšský komisař Kühl byl přes ty rybičky na stopě sabotáži.
 
-„_Gefüllte Fisch,_“ pravil panovačně, „je odporné židovské jídlo. Co má co dělat židovské jídlo v libretu, které mi předkládáte k schválení, a k tomu ve spojitosti s _Kraft durch Freude_[_\[40\]_](./resources/undefined)?“
+„_Gefüllte Fisch,_“ pravil panovačně, „je odporné židovské jídlo. Co má co dělat židovské jídlo v libretu, které mi předkládáte k schválení, a k tomu ve spojitosti s _Kraft durch Freude_[_\[40\]_](../Text/prima_sezona_19.html#_ftn40)?“
 
 Nojo. Chtěl jsem mu zatajit charleston, slovo anglické, použité v originále, tak jsem je blbě nahradil Radostí ze života. Nedomyslel jsem, jak překládám. Kühl mě probodával očima, dost malýma, ale pěkně pichlavýma. V duchu jsem si přeříkával české veršíky:
 
@@ -299,11 +417,11 @@ Hledal jsem zaraženě očima papírovou nohu ve svém překladu.
 
 Říšský komisař vládl docela dobrou asociační schopností. Nezval by z něho měl radost. My jsme momentálně neměli.
 
-„Co je to za _symboly_? Nejsou snad, _meine tschechische Herren_[_\[41\]_](./resources/undefined), z _Talmudu_?“
+„Co je to za _symboly_? Nejsou snad, _meine tschechische Herren_[_\[41\]_](../Text/prima_sezona_19.html#_ftn41), z _Talmudu_?“
 
 „To určitě ne! Já _Talmud_ jakživ nečet.“
 
-„Anebo ještě hůř,“ pravil pan říšský komisař velmi ponuře. „Není to náhodou _entartete Kunst_[_\[42\]_](./resources/undefined)?“
+„Anebo ještě hůř,“ pravil pan říšský komisař velmi ponuře. „Není to náhodou _entartete Kunst_[_\[42\]_](../Text/prima_sezona_19.html#_ftn42)?“
 
 Proboha! Byl dokonce i sečtělý v brožurkách!
 
@@ -311,19 +429,19 @@ Proboha! Byl dokonce i sečtělý v brožurkách!
 
 „Ne? A co například toto:“ vyškubl mi libreto z ruky a s odporem zarecitoval: „… _die Bluten der Bäume tanzen fröhlich!_“ Spustil ruku se strojopisem a opět mě napíchl na špendlíky svých očiček.
 
-„_Die Bluten_“ pravil. „_Blut_ se nevyskytuje v množném čísle. Ale nebylo to myšleno jako narážka na _Blut und Boden_[_\[43\]_](./resources/undefined)? Rafinovaná _česká_ narážka, _meine Herren_? _Eine Neuformulierung aus BLUT und BodEN? BLUTEN?_“
+„_Die Bluten_“ pravil. „_Blut_ se nevyskytuje v množném čísle. Ale nebylo to myšleno jako narážka na _Blut und Boden_[_\[43\]_](../Text/prima_sezona_19.html#_ftn43)? Rafinovaná _česká_ narážka, _meine Herren_? _Eine Neuformulierung aus BLUT und BodEN? BLUTEN?_“
 
 Kde se v něm sebrala ta lingvistika? Snad nečet Morgensterna? Toho jednou přitáhl z otcovy knihovny Benno, a ten ve svých básních měl takovéhle volovinky. Jarka vedle mě zasyčel:
 
-„_Bitte!_“[\[44\]](./resources/undefined)
+„_Bitte!_“[^44]
 
-„_Was wollen sie?_“[\[45\]](./resources/undefined) utrhl se na něho pan říšský komisař.
+„_Was wollen sie?_“[^45] utrhl se na něho pan říšský komisař.
 
-„_Bitte,_“ pravil Jarka. „_Das ist einer Fehler_.“[\[46\]](./resources/undefined)
+„_Bitte,_“ pravil Jarka. „_Das ist einer Fehler_.“[^46]
 
-„_Einer Fehler, was?_“ pravil pan říšský komisař ironicky. „_EIN Fehler, mein Herr!_ Taky byste už mohli umět pořádně německy, aspoň vy, studenti! _Und was für ein Fehler soll das sein?_“[\[47\]](./resources/undefined)
+„_Einer Fehler, was?_“ pravil pan říšský komisař ironicky. „_EIN Fehler, mein Herr!_ Taky byste už mohli umět pořádně německy, aspoň vy, studenti! _Und was für ein Fehler soll das sein?_“[^47]
 
-„_Es soll Umlaut sein,_“[\[48\]](./resources/undefined) pravil Jarka. „_Blüte. Nicht Bluten._“
+„_Es soll Umlaut sein,_“[^48] pravil Jarka. „_Blüte. Nicht Bluten._“
 
 Mrkl jsem do textu a došly mi zdroje Kühlových asociací. Kühl podmračeně sledoval text.
 
@@ -364,7 +482,7 @@ Je to teď bez chyb?“ otázal se.
 
 Jarka tomu rozuměl sám od sebe a řekl:
 
-_„Das ist ein dichterischer Bild.“[\[49\]](./resources/undefined)_
+_„Das ist ein dichterischer Bild.“[^49]_
 
 „Tak ten _dichterischer Bild_“ pravil Kühl s lidožroutskou ironií, „změníte!“
 
@@ -412,17 +530,17 @@ Byli sme v loji. Přece mu nebudem předvádět charleston? To by hned poznal, 
 
 Pan říšský komisař se opřel zadnicí o stůl a založil ruce na prsou. Vstali jsme ze svých židliček, postavili jsme se čelem k sobě, chvíli jsme nevěděli, jak začít, a tak jsem najednou dupnul, plácl jsem se do stehen a takovými jako sloními poskoky jsem se otáčel kolem své osy. Jarka udělal totéž. Pořád jsme se přitom plácali do stehen, a když jsme se ocitli zas čelem k sobě, plácli jsme si jeden druhému do dlaní. Doufal jsem, že to vyhlíží dost lidově, a ne židonegersky.
 
-„_Ländler__,_“[\[50\]](./resources/undefined) pravil pan říšský komisař úsečně. „Dejte tam _Ländler_, ale žádní kapři a pstruzi tam nesmí být!“
+„_Ländler__,_“[^50] pravil pan říšský komisař úsečně. „Dejte tam _Ländler_, ale žádní kapři a pstruzi tam nesmí být!“
 
 „Ano prosím. My to změníme.“
 
-„Dejte tam _die Burschen und die Mädels_[_\[51\]_](./resources/undefined),“řekl pan říšský komisař. „A řeka nebude papírová, ale modrá, vlajky budou hnědé.“
+„Dejte tam _die Burschen und die Mädels_[_\[51\]_](../Text/prima_sezona_19.html#_ftn51),“řekl pan říšský komisař. „A řeka nebude papírová, ale modrá, vlajky budou hnědé.“
 
 Zdálo se mi, že se jednak poněkud upokojil, jednak také že se v něm probudila nějaká latentní tvořivost.
 
 „_Jawohl_,“ řekl jsem, vytáhl jsem tužku a rychle jsem využíval jeho zlepšené nálady.
 
-„Ta _dreifache Kapelle_,“ pravil poměrně dobrotivě, „to bude taky nějaká překladatelská bota. Nebo si pan básník myslel, že je originální. To není básnický obraz, ale nesmysl. Dejte tam _Streichkapelle_[_\[52\]_](./resources/undefined), nebo ještě líp _Blasskapelle_[_\[53\]_](./resources/undefined).“
+„Ta _dreifache Kapelle_,“ pravil poměrně dobrotivě, „to bude taky nějaká překladatelská bota. Nebo si pan básník myslel, že je originální. To není básnický obraz, ale nesmysl. Dejte tam _Streichkapelle_[_\[52\]_](../Text/prima_sezona_19.html#_ftn52), nebo ještě líp _Blasskapelle_[_\[53\]_](../Text/prima_sezona_19.html#_ftn53).“
 
 Pilně jsem škrtal a nadepisoval. Dokonce mě to začalo bavit a prosadil jsem několik vlastních emendací. Jarka jen seděl a radši neříkal nic. Po čtvrthodině byl pan říšský komisař Kühl s básní spokojen. Znova pozdvihl libreto a hlasem ne už tak ponurým, spíš spokojeným, přednášel:
 
@@ -437,11 +555,11 @@ fröhlich tanzen den volkstümlichen Ländler.“_
 
 Vstal, hleděl spokojeně do libreta, skoro se usmíval. Probůh. Tak ona asi poezie má opravdu nějakou sílu, jak o ní vždycky básnil pan profesor Vondřichovský, který sice, pokud šlo o vědu, byl slabý, když Němci zavřeli univerzitu, byl teprve v třetím semestru, ale místo zkoušení radši přednášel básničky. Že jako i zatvrzelého člověka změní, prý už staří Řekové to věděli. Jak teda Nezvalovy charlestony zkatarzovaly pana Reichskommissäre Kühla bylo podivuhodné. Básničku sice zprznil, ale poměrně vynálezavě, a zapomněl přitom na povinnou říšskoněmeckou ponurost.
 
-„_Jetzt ist es ganz hübsch_[_\[54\]_](./resources/undefined)_,_“ pochválil dílo, o němž netušil, že vzniklo zpracováním komunistického surrealisty, snad dokonce židomila. „V originále, doufám, je to v rýmech. Nerýmovaná poezie není poezie.“
+„_Jetzt ist es ganz hübsch_[_\[54\]_](../Text/prima_sezona_19.html#_ftn54)_,_“ pochválil dílo, o němž netušil, že vzniklo zpracováním komunistického surrealisty, snad dokonce židomila. „V originále, doufám, je to v rýmech. Nerýmovaná poezie není poezie.“
 
 „_Jawohl!_“ zvolali jsme oba a já skoro zadoufal, že pan říšský komisař si ještě dá tu práci a svoje blaskapely a mädls pod stromy v květu dá do rýmů. Jistě by to bylo pěkné. Ale nedal. Vzal místo toho razítko, dýchl na ně a přímo pod Jarkovo jméno na titulním listě libreta vlepil nádherného hákoše.
 
-„_Genehmigt_[_\[55\]_](./resources/undefined),“ řekl, a pak to napsal pod hákoše.
+„_Genehmigt_[_\[55\]_](../Text/prima_sezona_19.html#_ftn55),“ řekl, a pak to napsal pod hákoše.
 
 Zcvakli jsme paty, zvolali jsme „_Auf Wiedersehen!_“, pan říšský komisař zvedl ruku stylem říšského kancléře, zlomenou v lokti a v zápěstí, a pravil dost ledabyle jako předtím Kristýna Nedoložilová:
 
@@ -735,7 +853,7 @@ Rosťa mě vystřídal, sedl jsem si k malému escritoiru, kde ve výklenku vyd
 
 Rosťa ulomil peru nožičku, šel jsem ho vystřídat. _Pan por. Otakar Hejna z Prahy, důstojník, a slečna MUC. Ludmila Vavrušková, studující medicíny, z Kostelce. Dvacátého září tisíc devět set třicet osm_. Taky jedna svatba narychlo. Jenomže ne jako Venca Štern, že musel. Lída zbouchnutá nebyla, a dodnes není. To bylo kvůli mobilizaci. A sotva je demobilizovali, pan poručík Otakar Hejna zdrh do Francie, Lída měla jet za ním, ale při nějakých praktikách se řízla do prstu nebo co, dostala otravu nebo co, prostě ležela s tím asi devět měsíců ve špitále a zatím nás vzali pod ochranu Němci a pan poručík Otakar Hejna zatím v Africe zahynul při výcviku na nějakých letadlech, na která nebyl zvyklý. Tomu říkám pech. Nebýt ani aspoň vdovou po hrdinovi. Při výcviku. Pak navíc zavřeli univerzitu, a Lída teď dělala ošetřovatelku. S nikým nechodila. Bůhví. Třeba tomu nevěří, třeba si myslí, že to pan poručík Hejna nechal tak rozhlásit, aby kvůli němu Lídu nešikanovali. Bůhví. Ten ví všechno, ten despota.
 
-Rosťa se posiloval vínem a polovičníma očima čuměl na nějaký obraz, kde z nějakého mučedníka stahovali kůži zaživa. Do půl pasu byl už stažený, červený jako uvařený rak, od pasu dolů byl ještě žlutý, ale tvářil se pořád zbožně, jako kdyby o tom mučení ani nevěděl. Mučitelé byli zato namalovaní tak, jako kdyby měli děsný vztek. Asi měli, když mučení nemělo efekt A ksichty měli každý jiný, docela realistické, malíř je patrně namaloval podle nějakých skutečných lidí, na které třeba měl vztek on. Rosťa na to brejlil, možná že ho to inspirovalo. Možná že brzo vytvoří plátno, kde bude on sám, jak píše českou kónu[\[56\]](./resources/undefined) s obličejem jako Karel Hynek Mácha a kolem všichni čtyři kostelečtí češtináři skřípají zubama. _Pan Přemysl Janek, průmyslník, a slečna Renata Müllerová, učitelka hry klavírní, oba z Kostelce_. Hodiny hrkly pět, důstojný pán Meloun se zatvářil, jako by se nám omlouval, a pravil: „Musím si také trošku svlažit hrdlo, chlapci. Vyschlo mi. Kdybyste, Pittermane –“ a Pitterman pochopil, nalil do číšky, v které předtím snad měl velebný pán nějaké svaté oleje, a velebný pán si opravdu jenom svlažil hrdlo a diktoval dál: _Pan Martin Vosolsobě, mlynář, a slečna_ –
+Rosťa se posiloval vínem a polovičníma očima čuměl na nějaký obraz, kde z nějakého mučedníka stahovali kůži zaživa. Do půl pasu byl už stažený, červený jako uvařený rak, od pasu dolů byl ještě žlutý, ale tvářil se pořád zbožně, jako kdyby o tom mučení ani nevěděl. Mučitelé byli zato namalovaní tak, jako kdyby měli děsný vztek. Asi měli, když mučení nemělo efekt A ksichty měli každý jiný, docela realistické, malíř je patrně namaloval podle nějakých skutečných lidí, na které třeba měl vztek on. Rosťa na to brejlil, možná že ho to inspirovalo. Možná že brzo vytvoří plátno, kde bude on sám, jak píše českou kónu[^56] s obličejem jako Karel Hynek Mácha a kolem všichni čtyři kostelečtí češtináři skřípají zubama. _Pan Přemysl Janek, průmyslník, a slečna Renata Müllerová, učitelka hry klavírní, oba z Kostelce_. Hodiny hrkly pět, důstojný pán Meloun se zatvářil, jako by se nám omlouval, a pravil: „Musím si také trošku svlažit hrdlo, chlapci. Vyschlo mi. Kdybyste, Pittermane –“ a Pitterman pochopil, nalil do číšky, v které předtím snad měl velebný pán nějaké svaté oleje, a velebný pán si opravdu jenom svlažil hrdlo a diktoval dál: _Pan Martin Vosolsobě, mlynář, a slečna_ –
 
 * * *
 
@@ -745,7 +863,7 @@ Naštěstí asi hradecké Gestapo mělo zajímavější případy, tak poslali n
 
 „To to mešní víno, chlapci,“ řekl nám potom velebný pán Meloun. „Já nejdřív nevěděl, jestli vám ho mám nabídnout. Ne že bych byl lakomý, ale mladí lidé nemají pít. Víno má být potěšením starého věku. No, ale řekl jsem si: Tohle je mimořádná okolnost, a posloužíme tím Bohu libé věci. A vidíte, chlapci, božím řízením možná právě to mešní víno –“
 
-Zkrátka, tu flašku, kterou načal teprve ve čtvrt na sedm, zapomněl na stole, a muž s umělou hlavou si jí všiml, jakmile vkročil na farní úřad a myslel si, že je to překvápko. Flaška tomu možná propůjčila věrohodnost. Muž se ani nezeptal na dovolení, a než zasedl nad matriky, musel velebný pán Meloun načít další. Když skončili, musel mu zabalit celou baterii jako úplatek. Tou dobou byl už také muž od _geheime Staatspolizei_ tak ožralý, že velebnému pánovi přísahal, že je dobrý katolický křesťan, do služeb nacismu se dal jenom proto, že má ženu a dvanáct dětí, a ke Gestapu ho vzali jenom jako poskoka, když mu v polském tažení ustřelili hlavu, takže má nyní ersatzkopf[\[57\]](./resources/undefined). Takže, když jsem to všechno vzal kolem a kolem, celá ta práce byla vlastně zbytečná, na všechno nakonec stačilo mešní víno, údajně Ia jakosti. Divné jsou cesty Páně. Bůhví, všechno to bylo zosnované jenom jako další z mých mnoha trestů. A Dáša Mařenka Sommernitzová byla zasichrovaná stejně jako Jindra Lederer, pokud se za _Protektoratu Böhmen und Mähren_ dalo vůbec něco zasichrovat.
+Zkrátka, tu flašku, kterou načal teprve ve čtvrt na sedm, zapomněl na stole, a muž s umělou hlavou si jí všiml, jakmile vkročil na farní úřad a myslel si, že je to překvápko. Flaška tomu možná propůjčila věrohodnost. Muž se ani nezeptal na dovolení, a než zasedl nad matriky, musel velebný pán Meloun načít další. Když skončili, musel mu zabalit celou baterii jako úplatek. Tou dobou byl už také muž od _geheime Staatspolizei_ tak ožralý, že velebnému pánovi přísahal, že je dobrý katolický křesťan, do služeb nacismu se dal jenom proto, že má ženu a dvanáct dětí, a ke Gestapu ho vzali jenom jako poskoka, když mu v polském tažení ustřelili hlavu, takže má nyní ersatzkopf[^57]. Takže, když jsem to všechno vzal kolem a kolem, celá ta práce byla vlastně zbytečná, na všechno nakonec stačilo mešní víno, údajně Ia jakosti. Divné jsou cesty Páně. Bůhví, všechno to bylo zosnované jenom jako další z mých mnoha trestů. A Dáša Mařenka Sommernitzová byla zasichrovaná stejně jako Jindra Lederer, pokud se za _Protektoratu Böhmen und Mähren_ dalo vůbec něco zasichrovat.
 
 * * *
 
@@ -968,3 +1086,121 @@ Za co mě zas trestáš, Pane Bože? Pročs teda vůbec dělal holky, když si k
 Teda, de facto, nic jsem neudělal, řekl jsem si v duchu trpce. Ani ň, s Kristýnou. Ani charleston jsem si s ní nezatancoval. Za zelenými keři na kraji háječku na mě vykukoval mýtský kostel růžovou věží, na okapu jeho červené cibule se cukrovaly hrdličky. Ty můžou, pomyslel jsem si. Ty můžou, Pane Bože, a jsou to jenom zvířata. To je teda pěkná nespravedlnost!
 
 </section>
+
+[^1]: Spolek válečných veteránů. _Pozn. red._
+
+[^2]: Zde odpočívá Karl von Weber, poručík c. a k. XVIII. Jízdního regimentu. Padl hrdinskou smrtí za císaře a vlast na něj nikdy nezapomene. _Pozn. red._
+
+[^3]: Ach! Krysař z Kostelce! _Pozn. red._
+
+[^4]: To je úplně magické. _Pozn. red._
+
+[^5]: Ale kde má flétnu? _Pozn. red._
+
+[^6]: Ach, to. _Pozn. red._
+
+[^7]: S tátou. _Pozn. red._
+
+[^8]: Táta je Rakušák. _Pozn. red._
+
+[^9]: Sukničkáři. _Pozn. red._
+
+[^10]: Strýček. _Pozn. red._
+
+[^11]: U vojenského hřbitova. _Pozn. red._
+
+[^12]: Americká filmová komedie z roku 1937. _Pozn. red._
+
+[^13]: Je to krysař z Kostelce? _Pozn. red._
+
+[^14]: Vy nevěříte mým kouzlům! _Pozn. red._
+
+[^15]: Nic jiného? _Pozn. red._
+
+[^16]: Není-liž pravda? _Pozn. red._
+
+[^17]: Darebák. _Pozn. red_
+
+[^18]: Omluvte mě na moment! _Pozn. red._
+
+[^19]: Ach ten. To byl někdo jiný. _Pozn. red._
+
+[^20]: Opravdu? A jak? _Pozn. red._
+
+[^21]: Vy mě milujete. To je vidět. _Pozn. red._
+
+[^22]: Teď pište. _Pozn. red._
+
+[^23]: Stát! _Pozn. red._
+
+[^24]: No jasně … slečna Weberová. _Pozn. red._
+
+[^25]: Zatraceně, znovu! _Pozn. red._
+
+[^26]: Ach tohle. To nic. _Pozn. red._
+
+[^27]: To bych zemřela. _Pozn. red._
+
+[^28]: Dusítko. _Pozn. red._
+
+[^29]: Ale ne na ústa! _Pozn. red._
+
+[^30]: Sám jste to řekl. _Pozn. red._
+
+[^31]: … pak mě miluje absolutně. _Pozn. red._
+
+[^32]: Jsem spojena s temnými silami… _Pozn. red._
+
+[^33]: No tak… četli jste to? _Pozn. red._
+
+[^34]: … pro kulturní činnost v protektorátu Čechy a Morava… _Pozn. red._
+
+[^35]: Čtěte nahlas. _Pozn. red._
+
+[^36]: …já nevím, ale mě se zdá, že tam žádné nejsou. _Pozn. red._
+
+[^37]: Žádné? Říkáte žádné? _Pozn. red._
+
+[^38]: Plněné modrými „kapry“ (v němčině Karpfen). _Pozn. red._
+
+[^39]: Plněná ryba, Danieli, je tradiční jídlo východoevropských Židů. Velmi chutné. _Pozn. red._
+
+[^40]: Radostí k síle – nacistická organizace KdF, jejímž cílem bylo ideologicky ovlivňovat a organizovat volný čas obyvatelstva. _Pozn. red._
+
+[^41]: … moji čeští pánové… _Pozn. red._
+
+[^42]: … zvrhlé umění – termín, který byl používán nacisty pro většinu moderního umění. _Pozn. red._
+
+[^43]: … krev a půda. _Pozn. red._
+
+[^44]: Prosím. _Pozn. red._
+
+[^45]: Co chcete? _Pozn. red._
+
+[^46]: Prosím… To je chyba. _Pozn. red._
+
+[^47]: A jaká chyba to má být? _Pozn. red._
+
+[^48]: Má tam být přehláska. _Pozn. red._
+
+[^49]: To je poetický obraz. _Pozn. red_.
+
+[^50]: Druh alpského tance. _Pozn. red._
+
+[^51]: Chlapci a dívky. _Pozn. red._
+
+[^52]: Zábavná kapela. _Pozn. red_.
+
+[^53]: Dechovka. _Pozn. red._
+
+[^54]: Teď je to mnohem hezčí. _Pozn. red._
+
+[^55]: Schváleno. _Pozn. red._
+
+[^56]: Školní písemná zkouška, kompozice (slang.) _Pozn. red._
+
+[^57]: Náhražku hlavy. _Pozn. red._
+
+[^58]: Ubytovávání. _Pozn. red._
+
+[^59]: Dobový název typu výstředně se oblékající a chovající dívky. _Pozn. red._

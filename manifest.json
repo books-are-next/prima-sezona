@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-prima-sezona-c653dba",
-  "revision": "c653dba",
+  "identifier": "skvorecky-prima-sezona-ed5aeff",
+  "revision": "ed5aeff",
   "readingOrder": [
     "promo.html",
     "prima_sezona_05.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:34:21 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414061644
+    "date": "Thu Sep 29 2022 21:32:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487156383
   },
   "documents": [
     {
@@ -103,9 +103,9 @@
     {
       "title": "MÁJOVÁ     KOUZELNICE",
       "file": "prima_sezona_09.html",
-      "words": 14997,
-      "chars": 90144,
-      "ideas": 775,
+      "words": 15154,
+      "chars": 90879,
+      "ideas": 796,
       "role": "chapter",
       "order": 4,
       "prev": "prima_sezona_07.html",
@@ -123,9 +123,9 @@
     {
       "title": "ZAMŘÍŽOVANÝ     CHARLESTON",
       "file": "prima_sezona_11.html",
-      "words": 10151,
-      "chars": 60012,
-      "ideas": 467,
+      "words": 10228,
+      "chars": 60381,
+      "ideas": 479,
       "role": "chapter",
       "order": 5,
       "prev": "prima_sezona_09.html",
@@ -163,9 +163,9 @@
     {
       "title": "HOTEL     PRO SOUROZENCE",
       "file": "prima_sezona_15.html",
-      "words": 9285,
-      "chars": 52619,
-      "ideas": 557,
+      "words": 9289,
+      "chars": 52642,
+      "ideas": 558,
       "role": "chapter",
       "order": 7,
       "prev": "prima_sezona_13.html",
@@ -183,9 +183,9 @@
     {
       "title": "SMUTNÉ     PODZIMNÍ BLUES",
       "file": "prima_sezona_17.html",
-      "words": 9313,
-      "chars": 53776,
-      "ideas": 462,
+      "words": 9325,
+      "chars": 53847,
+      "ideas": 463,
       "role": "chapter",
       "order": 8,
       "prev": "prima_sezona_15.html",
@@ -203,9 +203,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "prima_sezona_19.html",
-      "words": 441,
-      "chars": 2481,
-      "ideas": 60,
+      "words": 879,
+      "chars": 4717,
+      "ideas": 119,
       "role": "chapter",
       "order": 9,
       "prev": "prima_sezona_17.html",
@@ -223,9 +223,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 176,
-      "chars": 1233,
-      "ideas": 19,
+      "words": 167,
+      "chars": 1190,
+      "ideas": 18,
       "role": "about",
       "order": null,
       "prev": "prima_sezona_19.html",
@@ -243,14 +243,14 @@
   ],
   "totals": {
     "all": {
-      "words": 61268,
-      "chars": 356430,
-      "ideas": 3166
+      "words": 61947,
+      "chars": 359821,
+      "ideas": 3259
     },
     "chapters": {
-      "words": 61086,
-      "chars": 355159,
-      "ideas": 3143
+      "words": 61774,
+      "chars": 358593,
+      "ideas": 3237
     }
   }
 }

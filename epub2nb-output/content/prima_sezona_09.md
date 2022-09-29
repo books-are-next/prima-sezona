@@ -23,6 +23,124 @@ princezny s květy magnólií…_
 
 </section>
 
+[^1]: Spolek válečných veteránů. _Pozn. red._
+
+[^2]: Zde odpočívá Karl von Weber, poručík c. a k. XVIII. Jízdního regimentu. Padl hrdinskou smrtí za císaře a vlast na něj nikdy nezapomene. _Pozn. red._
+
+[^3]: Ach! Krysař z Kostelce! _Pozn. red._
+
+[^4]: To je úplně magické. _Pozn. red._
+
+[^5]: Ale kde má flétnu? _Pozn. red._
+
+[^6]: Ach, to. _Pozn. red._
+
+[^7]: S tátou. _Pozn. red._
+
+[^8]: Táta je Rakušák. _Pozn. red._
+
+[^9]: Sukničkáři. _Pozn. red._
+
+[^10]: Strýček. _Pozn. red._
+
+[^11]: U vojenského hřbitova. _Pozn. red._
+
+[^12]: Americká filmová komedie z roku 1937. _Pozn. red._
+
+[^13]: Je to krysař z Kostelce? _Pozn. red._
+
+[^14]: Vy nevěříte mým kouzlům! _Pozn. red._
+
+[^15]: Nic jiného? _Pozn. red._
+
+[^16]: Není-liž pravda? _Pozn. red._
+
+[^17]: Darebák. _Pozn. red_
+
+[^18]: Omluvte mě na moment! _Pozn. red._
+
+[^19]: Ach ten. To byl někdo jiný. _Pozn. red._
+
+[^20]: Opravdu? A jak? _Pozn. red._
+
+[^21]: Vy mě milujete. To je vidět. _Pozn. red._
+
+[^22]: Teď pište. _Pozn. red._
+
+[^23]: Stát! _Pozn. red._
+
+[^24]: No jasně … slečna Weberová. _Pozn. red._
+
+[^25]: Zatraceně, znovu! _Pozn. red._
+
+[^26]: Ach tohle. To nic. _Pozn. red._
+
+[^27]: To bych zemřela. _Pozn. red._
+
+[^28]: Dusítko. _Pozn. red._
+
+[^29]: Ale ne na ústa! _Pozn. red._
+
+[^30]: Sám jste to řekl. _Pozn. red._
+
+[^31]: … pak mě miluje absolutně. _Pozn. red._
+
+[^32]: Jsem spojena s temnými silami… _Pozn. red._
+
+[^33]: No tak… četli jste to? _Pozn. red._
+
+[^34]: … pro kulturní činnost v protektorátu Čechy a Morava… _Pozn. red._
+
+[^35]: Čtěte nahlas. _Pozn. red._
+
+[^36]: …já nevím, ale mě se zdá, že tam žádné nejsou. _Pozn. red._
+
+[^37]: Žádné? Říkáte žádné? _Pozn. red._
+
+[^38]: Plněné modrými „kapry“ (v němčině Karpfen). _Pozn. red._
+
+[^39]: Plněná ryba, Danieli, je tradiční jídlo východoevropských Židů. Velmi chutné. _Pozn. red._
+
+[^40]: Radostí k síle – nacistická organizace KdF, jejímž cílem bylo ideologicky ovlivňovat a organizovat volný čas obyvatelstva. _Pozn. red._
+
+[^41]: … moji čeští pánové… _Pozn. red._
+
+[^42]: … zvrhlé umění – termín, který byl používán nacisty pro většinu moderního umění. _Pozn. red._
+
+[^43]: … krev a půda. _Pozn. red._
+
+[^44]: Prosím. _Pozn. red._
+
+[^45]: Co chcete? _Pozn. red._
+
+[^46]: Prosím… To je chyba. _Pozn. red._
+
+[^47]: A jaká chyba to má být? _Pozn. red._
+
+[^48]: Má tam být přehláska. _Pozn. red._
+
+[^49]: To je poetický obraz. _Pozn. red_.
+
+[^50]: Druh alpského tance. _Pozn. red._
+
+[^51]: Chlapci a dívky. _Pozn. red._
+
+[^52]: Zábavná kapela. _Pozn. red_.
+
+[^53]: Dechovka. _Pozn. red._
+
+[^54]: Teď je to mnohem hezčí. _Pozn. red._
+
+[^55]: Schváleno. _Pozn. red._
+
+[^56]: Školní písemná zkouška, kompozice (slang.) _Pozn. red._
+
+[^57]: Náhražku hlavy. _Pozn. red._
+
+[^58]: Ubytovávání. _Pozn. red._
+
+[^59]: Dobový název typu výstředně se oblékající a chovající dívky. _Pozn. red._
+
 
 <section>
 
@@ -138,7 +256,7 @@ Vypálil jsem jak Fikejz, přeborník na dvě stě metrů kosteleckého gymplu, 
 
 Doběhl jsem na hřbitov a srdce se mi tlačilo na ohryzek. Hřbitov byl vystavěn jako umělá ruina gotické katedrály a po hrubých kamenech jakoby rozpadlých zdí se vinuly plané růže. Voněly tu šišky, smůla, přes hroby vojínů, padlých v roce 1866 za císaře a vlast, skákaly rezavé veverky. Jenomže mně se zdálo, že jsou bronzové.
 
-Rychle jsem se probral trsem červených růžiček, které se pnuly kolem nazelenalého náhrobku z pískovce. Nedávno tu místní kostelecký _Verein der alten Frontsoldaten_[_\[1\]_](./resources/undefined) vyzlatil zašlé nápisy v pískovci, a tak ve věnci červených a bílých kvítků na mě zlatě zazářil nápis, že _Hier ruhet Karl von Weber, Leutnant des k.u.k. XVIII Hulanenregiment. Den Heldentot gestorben für Kaiser und Vaterland nie wird er vergessen_.[\[2\]](./resources/undefined) Sotva jsem si ho ale všimnul, protože z místa věčného odpočinku lajtnanta von Webera jsem surově serval celou náruč planých růží a už jsem zas pádil lesem zpátky. Srdce mi horečně ťukalo na ohryzek, a jak jsem běžel, probíral jsem se růžičkama a zahazoval jsem ty, které se mi zdály moc malé. Za mnou se lesem a po mostě stínů na jedovaté stráni táhla červenobílá stopa zhrzených kvítků, až mi v ruce zůstala jedna, větší a něžná a červená, skoro jako pravá růže. S tou v napřažené ruce a s jazykem na vestě jsem dorazil k šeříkové jeskyňce, právě když se ta krásná holka znova podívala na hodinky.
+Rychle jsem se probral trsem červených růžiček, které se pnuly kolem nazelenalého náhrobku z pískovce. Nedávno tu místní kostelecký _Verein der alten Frontsoldaten_[_\[1\]_](../Text/prima_sezona_19.html#_ftn1) vyzlatil zašlé nápisy v pískovci, a tak ve věnci červených a bílých kvítků na mě zlatě zazářil nápis, že _Hier ruhet Karl von Weber, Leutnant des k.u.k. XVIII Hulanenregiment. Den Heldentot gestorben für Kaiser und Vaterland nie wird er vergessen_.[^2] Sotva jsem si ho ale všimnul, protože z místa věčného odpočinku lajtnanta von Webera jsem surově serval celou náruč planých růží a už jsem zas pádil lesem zpátky. Srdce mi horečně ťukalo na ohryzek, a jak jsem běžel, probíral jsem se růžičkama a zahazoval jsem ty, které se mi zdály moc malé. Za mnou se lesem a po mostě stínů na jedovaté stráni táhla červenobílá stopa zhrzených kvítků, až mi v ruce zůstala jedna, větší a něžná a červená, skoro jako pravá růže. S tou v napřažené ruce a s jazykem na vestě jsem dorazil k šeříkové jeskyňce, právě když se ta krásná holka znova podívala na hodinky.
 
 Pohlédla na mě a pravila:
 
@@ -148,13 +266,13 @@ A vtom jsem si všiml něčeho těžko vysvětlitelného.
 
 Ten zvuk bylo vzdálené, magické pískání, zaznívalo odněkud zdola, od města, mezi šeříky a šuměním keřů, kterými kýval májový vítr. Divné, toužebné pískání, holka taky zpozorněla, pískání stoupalo, klesalo, najednou jsem si, bůhví proč, vzpomněl na most stínů, co jsem ho právě vystlal těmi růžemi, mrkl jsem po perleťovém měsíci, holka vzdychla, vstala, pískání se náhle složilo ve známou melodii… ale nově kouzelnou, kouzelnickou… _Dinah, is there anyone finer in the state of Carolina, if there is_… holka rozhrnula šeříky, vyhlédla na město, pravila užasle:
 
-„_Ach! Der Rattenfänger von Kostelec!_“[\[3\]](./resources/undefined)
+„_Ach! Der Rattenfänger von Kostelec!_“[^3]
 
 Neřekla to, jako by to řekla česká holka z legrace, takovou tou němčinou naučenou z musu asi tak v sextě, kam asi tak musela chodit. Řekla to, jako by to řekla německá holka, jenomže mně to vůbec neznělo, jak by mně to znělo z úst pana Reichskommisara Horsta Herrmanna Kühla.
 
 Přiložil jsem svou hlavu k její hlavě do rozhrnutých šeříků, jejich vůně se smíchala – s čím, sakra? S pomerančovou vůní, zdálo se mi. Snad jsem byl už tak omámený, že se mi pletly fialky a pomeranče. Nebo možná jsem se tak schvátil tím během. Vyhlédl jsem, a v paprscích zapadajícího slunce kráčel dole pod náma po plhovském náměstí _der Rattenfänger von Kostelec_, teda, a hrál na třpytící se flexaton… _Dinah, I’d wander to China_…
 
-„_Das ist ganz magisch_,“[\[4\]](./resources/undefined) řekla holka. „_Aber wo hat er die Flöte?_“[\[5\]](./resources/undefined)
+„_Das ist ganz magisch_,“[^4] řekla holka. „_Aber wo hat er die Flöte?_“[^5]
 
 Pohlédl jsem na ni, ona na mě.
 
@@ -182,7 +300,7 @@ Bronzová hedvábná helma, skarabeové oči, jimiž pomalu plul zmenšený měs
 
 _… I’d hop an ocean liner_, hvízdal z dálky na flexatonu kostelecký _Rattenfänger,_ _just to be with Dinah Lee_…
 
-„_Ach das,_“[\[6\]](./resources/undefined) pravila holka.
+„_Ach das,_“[^6] pravila holka.
 
 „A proč mluvíte najednou německy!?“
 
@@ -190,13 +308,13 @@ _… I’d hop an ocean liner_, hvízdal z dálky na flexatonu kostelecký _Rat
 
 „Ale proč _vůbec_ mluvíte německy?“
 
-„U nás se s _Vatim_[_\[7\]_](./resources/undefined) mluví německy. S mámou mluvíme česky.“
+„U nás se s _Vatim_[_\[7\]_](../Text/prima_sezona_19.html#_ftn7) mluví německy. S mámou mluvíme česky.“
 
 „Fatty je Němec?“
 
 Holka sklopila řasy, černé přes zlaté a smaragdové broučky v očích. Zas je zvedla a posvítila si na mě tím zlatem.
 
-„Já za to nemůžu, Ale _Vati_ není Němec,“ řekla. „_Vati_ je _ein Österreicher._“[\[8\]](./resources/undefined)
+„Já za to nemůžu, Ale _Vati_ není Němec,“ řekla. „_Vati_ je _ein Österreicher._“[^8]
 
 „Ale –“
 
@@ -228,7 +346,7 @@ Vrátil jsem se k otázce šatů.
 
 „Proč špatný?“
 
-„Takové věci dělají kvůli obyčejným holkám jenom – jenom – jak se jim říká? _Schürzenjäger_[_\[9\]_](./resources/undefined).“
+„Takové věci dělají kvůli obyčejným holkám jenom – jenom – jak se jim říká? _Schürzenjäger_[_\[9\]_](../Text/prima_sezona_19.html#_ftn9).“
 
 Ovládal jsem to slovo. Irena ho užívala, česky, když mě chtěla charakterizovat, a tím vysvětlit, proč má proti mně ty silné výhrady.
 
@@ -322,7 +440,7 @@ Otočila se, zase nějakým způsobem plula v bílých střevíčcích po brč�
 
 „Počkejte! Nechoďte eště, Karlo-Marie!“
 
-„Musím k večeři. _Onkel_[_\[10\]_](./resources/undefined) by se zlobil.“
+„Musím k večeři. _Onkel_[_\[10\]_](../Text/prima_sezona_19.html#_ftn10) by se zlobil.“
 
 „Tak přijďte zas, po večeři!“
 
@@ -340,7 +458,7 @@ Zasmála se. Už byla dost daleko, ale zpod bronzové helmice vyšlehly zlaté p
 
 „Rozuměl jsem vám dobře, slečno Weberová?“ zvolal jsem.
 
-„Já doufám dobře. Zítra ve tři u _Militärfriedhof_[_\[11\]_](./resources/undefined),“ pravila slečna Weberová a otočila se, doplula k brance Obdržálkovic vily a zmizela v jejích útrobách.
+„Já doufám dobře. Zítra ve tři u _Militärfriedhof_[_\[11\]_](../Text/prima_sezona_19.html#_ftn11),“ pravila slečna Weberová a otočila se, doplula k brance Obdržálkovic vily a zmizela v jejích útrobách.
 
 Byl cítit ten čpavý dým, asi z teplárny. A pomeranče. Nebo šeříky. Nebo fialky. Nebo co.
 
@@ -418,7 +536,7 @@ Fakir? Zatřepal jsem flexatonem.
 
 … _for Sweet Georgia Brown_…
 
-„Ta Weberová tě teda vzala,“ pravil Benno. „Takhle sem tě viděl naposled, dyžs byl po šestý na _Vítězným běhu_[_\[12\]_](./resources/undefined) s Juditkou Garlandovou!“
+„Ta Weberová tě teda vzala,“ pravil Benno. „Takhle sem tě viděl naposled, dyžs byl po šestý na _Vítězným běhu_[_\[12\]_](../Text/prima_sezona_19.html#_ftn12) s Juditkou Garlandovou!“
 
 * * *
 
@@ -532,7 +650,7 @@ K last chorusu se Benno přidal, na svůj měsíček, zdálo se mi, že o okt�
 
 Koncert, pro klavír a flexaton, skončil. Silueta slečny Weberové se objevila v okně:
 
-„_Ist das der Rattenfänger von Kostelec?_“[\[13\]](./resources/undefined)
+„_Ist das der Rattenfänger von Kostelec?_“[^13]
 
 Dřív než jsem mohl něco říct, pravil Benno:
 
@@ -648,7 +766,7 @@ Zarazil jsem se, zíral jsem na ni jako na neuvěřitelné zjevení. Nenapadlo m
 
 Ty šaty, ty mašle, to všechno – co na to říct?
 
-„Ach!“ pravila Karla-Marie zklamaně. „_Sie glauben nicht an meine Zaubereien!_“[\[14\]](./resources/undefined)
+„Ach!“ pravila Karla-Marie zklamaně. „_Sie glauben nicht an meine Zaubereien!_“[^14]
 
 „Dyť to neni možný!“ zařval jsem.
 
@@ -700,7 +818,7 @@ Koukal jsem na ni, ona na mě, skarabeové byli úplně vážní, zelení, se zl
 
 „Já bych si přál, abyste se do mě zamilovala!“
 
-„_Sonst nichts?_“[\[15\]](./resources/undefined) pravila zklamaně.
+„_Sonst nichts?_“[^15] pravila zklamaně.
 
 * * *
 
@@ -728,7 +846,7 @@ Vzala mě za ruku.
 
 Bylo mi všechno jedno. Cítil jsem podivnou malátnost. Vzal jsem ji za ruku. Kolem nás se blikotáním stínů přiřítil smaragdový drak, byl malý, byla to vážka, zastavil se před námi, ze sosáku mu vyšlehl plamen. Hladký samet mi vyklouzl z dlaně.
 
-„Dívka nemusí být zamilovaná, aby byla hodná, _nicht Wahr_[_\[16\]_](./resources/undefined)?“
+„Dívka nemusí být zamilovaná, aby byla hodná, _nicht Wahr_[_\[16\]_](../Text/prima_sezona_19.html#_ftn16)?“
 
 „Ach!“ pravil jsem opět. „A kdy to bude, kdy na mě budete hodná?“
 
@@ -758,7 +876,7 @@ Kráčeli jsme kaleidoskopem zelené a zlaté k té Kramolně, já pořád jak
 
 „Mluvíte o něm, jako kdybyste ho moc nemilovala.“
 
-„Přece! Já jsem ho milovala. Moc strašně. Ale byl to lump. _Ein Halunke_[_\[17\]_](./resources/undefined). To se stává, že dívka miluje lumpa a halunka, i když je něco extra.“
+„Přece! Já jsem ho milovala. Moc strašně. Ale byl to lump. _Ein Halunke_[_\[17\]_](../Text/prima_sezona_19.html#_ftn17). To se stává, že dívka miluje lumpa a halunka, i když je něco extra.“
 
 „Já nejsem halunek,“ řekl jsem smutně.
 
@@ -778,7 +896,7 @@ Nepochopil jsem to. Byl jsem příliš zmožen střídáním hrůzy a lásky, n
 
 Objednal jsem dvě limonády. A čarodějka řekla naprosto banálně:
 
-„_Verzeihen sie einen Moment!_“[\[18\]](./resources/undefined) rozhlédla se a pak zmizela dveřmi, nad nimiž byla cedule se dvěma nulami.
+„_Verzeihen sie einen Moment!_“[^18] rozhlédla se a pak zmizela dveřmi, nad nimiž byla cedule se dvěma nulami.
 
 * * *
 
@@ -822,7 +940,7 @@ Pocítil jsem, že na lavici vrávorám. Asi se o mě pokoušely mdloby, nikdy 
 
 „No. Ten, co ste přísahala, že už nikdy žádnýho nebudete milovat. Co si ho vodnes Mefisto.“
 
-„_Ach der,_“ řekla Karla-Marie. „_Das war ein anderer_.[\[19\]](./resources/undefined) Tohle byl fagotista _der Wiener Philharmoniker_. Jeden pravnuk Paracelsuse.“
+„_Ach der,_“ řekla Karla-Marie. „_Das war ein anderer_.[^19] Tohle byl fagotista _der Wiener Philharmoniker_. Jeden pravnuk Paracelsuse.“
 
 „Toho ste milovala?“
 
@@ -894,7 +1012,7 @@ Oranžové puntíky plály, slečna Weberová byla jako elegantní americká kam
 
 „Já vám to dokážu!“
 
-„_Wirklich?_“ řekla Karla-Marie. „_Und wie?_“[\[20\]](./resources/undefined)
+„_Wirklich?_“ řekla Karla-Marie. „_Und wie?_“[^20]
 
 „Já – třeba zas doběhnu pro růži –“
 
@@ -932,9 +1050,9 @@ Poslušně jsem přistoupil, přiklekl. Slečna Weberová vzala mou ruku do svý
 
 Ani jsem nesykl,
 
-„_Sie lieben mich,_“ pravila. „_Das kann ich sehen,_“[\[21\]](./resources/undefined) a vložila si můj zmasakrovaný malíček do pusy. Cítil jsem, jak saje, a špička jejího jazýčka se vevnitř v puse dotkla mé ranky. Vyndala malíček z pusy a pravila:
+„_Sie lieben mich,_“ pravila. „_Das kann ich sehen,_“[^21] a vložila si můj zmasakrovaný malíček do pusy. Cítil jsem, jak saje, a špička jejího jazýčka se vevnitř v puse dotkla mé ranky. Vyndala malíček z pusy a pravila:
 
-„_Jetzt schreiben sie!_“[\[22\]](./resources/undefined)
+„_Jetzt schreiben sie!_“[^22]
 
 „Co mám napsat?“
 
@@ -942,7 +1060,7 @@ Ani jsem nesykl,
 
 Vzal jsem pero a otevřel jsem notýsek. Jenže jak mě všechny ty zážitky posledních pěti minut zbavily rozumu, otevřel jsem ho právě na stránce, která byla celá popsaná slovem „Marie“, opakovaným asi stokrát. To jak jsem si cvičil co nejelegantnější velké M. Marie, Marie, Marie, Marie, Marie a tak dále. Psal jsem.
 
-„_Halt!_“[\[23\]](./resources/undefined) pravila slečna Weberová „Co to píšete?“
+„_Halt!_“[^23] pravila slečna Weberová „Co to píšete?“
 
 Pohlédl jsem na krvavý, dost kostrbatý řádek, který pomalu zasychal do slov vyvedených ve rzi.
 
@@ -954,7 +1072,7 @@ _Miluji a letos v máji budu milovat pouze slečnu Marii._
 
 „Vážně?“
 
-„_Na klar!_“ řekla. „Jsem to pořád já, _Fräulein Weber._“[\[24\]](./resources/undefined)
+„_Na klar!_“ řekla. „Jsem to pořád já, _Fräulein Weber._“[^24]
 
 Dokončil jsem nápis: … _budu milovat pouze slečnu Marii-Karlu Weberovou. Daniel Smiřický_.
 
@@ -974,7 +1092,7 @@ Vyskočila a ustoupila k rybníčku.
 
 Popadl jsem ji kolem těla, zavřel jsem oči, to byl takový zvyk naučený z biografu, a poslepu jsem hledal pusu, která předtím sála mou krev. Nenašel jsem ji. Slečna Weberová obrátila hlavu, odněkud, asi z výstřihu, mě ovanula fialková vůně, rty jsem nahmátl teplou hladkou kůži na dlouhém krku Karly-Marie a sál jsem zase já, až jsem ucítil krev. Slečna Weberová sebou divoce zmítala, potáceli jsme se na břehu tůňky, najednou mi ujely nohy a se slečnou Weberovou v náručí jsem se poroučel do rybníčka.
 
-„_Verflucht nocheinmal!“_[_\[25\]_](./resources/undefined) zaslechl jsem její sladký hlásek a spolkl jsem veliké sousto odporně chutnajícího žabince. Když jsem znovu nabyl orientace, viděl jsem, jak slečna Weberovi vylézá z tůně, zelené šaty připláclé k tělu tak, že je jí všechno vidět. Bronzová helma se ve vodě rozpustila a vlasy visely splihle, připláclé na rozkošný obličej…
+„_Verflucht nocheinmal!“_[_\[25\]_](../Text/prima_sezona_19.html#_ftn25) zaslechl jsem její sladký hlásek a spolkl jsem veliké sousto odporně chutnajícího žabince. Když jsem znovu nabyl orientace, viděl jsem, jak slečna Weberovi vylézá z tůně, zelené šaty připláclé k tělu tak, že je jí všechno vidět. Bronzová helma se ve vodě rozpustila a vlasy visely splihle, připláclé na rozkošný obličej…
 
 Usmála se na mě.
 
@@ -996,7 +1114,7 @@ Usmála se na mě.
 
 Sáhla si tam, na rychle tmavnoucí stopu po mé pekelné vášni.
 
-„_Ach das! Das macht nichts_.[\[26\]](./resources/undefined) To se mi vyhojí jedna dvě.“
+„_Ach das! Das macht nichts_.[^26] To se mi vyhojí jedna dvě.“
 
 Byla teda úplně jiná než kostelecké holky. A zřejmě se na mě vůbec nezlobila. Čerti se možná nezlobí, jakmile se jim člověk upíše, tělem i duší.
 
@@ -1006,7 +1124,7 @@ Byla teda úplně jiná než kostelecké holky. A zřejmě se na mě vůbec nez
 
 „A na ústa?“
 
-„_Da würde ich sterben._“[\[27\]](./resources/undefined)
+„_Da würde ich sterben._“[^27]
 
 To bude teda obtížné, až na mě začne být hodná. Zatím jí ale začlo být zima, tak jsem ji doprovodil k Obdržálkovic vile a políbil jsem ji pouze do dlaně, která voněla lesem, fialkama a žabincem.
 
@@ -1124,7 +1242,7 @@ Zelené blesky šlehly přes mou hlavu.
 
 Karla-Marie vstala a vykročila k pianu. Všiml jsem si, že má punčochy a střevíce z černého semiše s páskem kolem kotníčků. Usedla k pianu a bez dlouhých cavyků spustila Bacha.
 
-Nikdy bych nebyl věřil, že do starého Bártova pianina se vejde taková muzika. A že do staré Bachovy fugy se vejde tolik pekelnosti, ačkoliv to byl takový zbožný varhaník. Zdálo se mi, že na pianině planou černé svíce, a slečniny bílé ruce, uprostřed vší té černi, pracují po černých klávesách. Dolů do hřmících basů, nahoru do drátěných výšek. Kolem slečny Weberové a černé mše jejích notiček se shromáždila celá kapela a přešly je obvyklé žertíky. Benno měl hubu zase pootevřenou a Harýkovy prsty samy od sebe neslyšně pátraly po hmatníku. Brynych vytáhl smetáček a docela tiše, docela jemňoučce začal v rytmu té čertovské fugy šimrat kůži. Slečna Weberová v dlouhých černých rukávech pracovala jako fantastické dynamo, muzika ne z nebe, odjinud, já věděl odkud, ale nechával jsem si to pro sebe, se valila jako pomeranči a peklem vonící kaše z nějakého žhavého hrnečku vař a celá kapela v ní pomalu vízla, až uvízla. Brynychova košťátka už tancovala podle perleťového rytmu nehtů na černých klávesách, Harýk zahrál akord, pak druhý. Třebaže čertice nehodlala hrát jazz, hrála ho, sáhl jsem po tenoroví, natáhl jsem uši, měl jsem je nějaké dlouhé a do špičky, zahlédl jsem, že Benno strčil sordinku[\[28\]](./resources/undefined) do korpusu a po něm Venca a oba přiložili nátrubky k ústům a zdvihl se Fondův prst, slečna Weberová příšerně rychle sestupovala po černých schodech do podzemní jeskyně, ale druhá slečna Weberová, druhé já slečny Weberové najednou po bílých schodech začalo vystupovat zas na světla vysokooktávového žebříčku, a Fonda kývl kudrnatou hlavou, polohlasem dýchl „Es!“ a my jsme lehounce zaduli tichý, vyznívající, sordinovaný akord, z něhož se slečna Weberová v obou svých inkarnacích rozběhla seshora dolů po schodech do jeskyně, levička trochu napřed a za ní pravička, perleťové nehty se kmitaly po klávesách a na prostředníku levé ruky žlutý prsten s černou růžičkou, Fonda dých, tichounce jsme zaduli nový akord, uchopil mě neurvale přítel slečny Weberové, voněl po pomerančích, tak to byl on, ona byla ty fialky, svými dvaceti prsty vzal každý můj prst mezi dva své a já vystoupil z nadýchnutého akordu a kozlím témbrem jsem se vysmýkal z jeskyně do záře pekelných ohňů, prsty mi pevně seděly na té jiné perleti, slyšel jsem, jak slečna Weberová udeřila, ale tiše, nikde neslyšený akord, a smýkal jsem se mimo akcenty přes jiný, dýchnutý kapelou, nahoru a nahoru, až už to dál nešlo a zřítil jsem se na cé, na há, na bé, kozel zamečel a zaprskal býk, Venca provedl několik chraplavých smyků a prstíky slečny Weberové si opět pohrály vysoko na černém výsluní černých kláves, když vtom je okřikla Bennova trumpeta, drsným, sprostým frázováním zlomila slečninu škádlivou fugu, bůhví jak, za námi zaduněl Brynychův velký buben a slečna se podvolila, zdálo se mi, že radostně, a z fugy jako netopýr vyletěla _Sweet Georgia Brown_, Benno jí byl plný, mezi jeho opožděné synkopy počala slečna Weberová vrážet podivuhodné klíny obrovských akordů… _Iťsbeen said_… něco mezi dur a moll… _she knocks’em dead_… trumpetou se prodral Lexa, pak já, Venca, Fonda přisedl k nejzazšímu konci klávesnice a zabasoval, celá kapela se rozehřměla jako nějaká swingující filharmonie, jenom já věděl, odkud se to vzalo… _when she lands in town_… Tak jsme běsnili, až se žárovka na šňůře nad námi kymácela, a pootevřenými okny se valila na Kostelec muzika ani z Lince, ani z Chicaga, z pekla, slečna Weberová se mezi námi obratně proplétávala po svých černých notičkách, její štíhlá černá záda se kymácela nad černými klávesami, které vespod rozehřmíval Fonda do černavy přicházející bouře, a najednou se slečna Weberová se smíchem zhroutila na klávesnici a vyrobila ten vůbec nejfantastičtější akord, řev kapely utichl… _Sweet Georgia Brown_…
+Nikdy bych nebyl věřil, že do starého Bártova pianina se vejde taková muzika. A že do staré Bachovy fugy se vejde tolik pekelnosti, ačkoliv to byl takový zbožný varhaník. Zdálo se mi, že na pianině planou černé svíce, a slečniny bílé ruce, uprostřed vší té černi, pracují po černých klávesách. Dolů do hřmících basů, nahoru do drátěných výšek. Kolem slečny Weberové a černé mše jejích notiček se shromáždila celá kapela a přešly je obvyklé žertíky. Benno měl hubu zase pootevřenou a Harýkovy prsty samy od sebe neslyšně pátraly po hmatníku. Brynych vytáhl smetáček a docela tiše, docela jemňoučce začal v rytmu té čertovské fugy šimrat kůži. Slečna Weberová v dlouhých černých rukávech pracovala jako fantastické dynamo, muzika ne z nebe, odjinud, já věděl odkud, ale nechával jsem si to pro sebe, se valila jako pomeranči a peklem vonící kaše z nějakého žhavého hrnečku vař a celá kapela v ní pomalu vízla, až uvízla. Brynychova košťátka už tancovala podle perleťového rytmu nehtů na černých klávesách, Harýk zahrál akord, pak druhý. Třebaže čertice nehodlala hrát jazz, hrála ho, sáhl jsem po tenoroví, natáhl jsem uši, měl jsem je nějaké dlouhé a do špičky, zahlédl jsem, že Benno strčil sordinku[^28] do korpusu a po něm Venca a oba přiložili nátrubky k ústům a zdvihl se Fondův prst, slečna Weberová příšerně rychle sestupovala po černých schodech do podzemní jeskyně, ale druhá slečna Weberová, druhé já slečny Weberové najednou po bílých schodech začalo vystupovat zas na světla vysokooktávového žebříčku, a Fonda kývl kudrnatou hlavou, polohlasem dýchl „Es!“ a my jsme lehounce zaduli tichý, vyznívající, sordinovaný akord, z něhož se slečna Weberová v obou svých inkarnacích rozběhla seshora dolů po schodech do jeskyně, levička trochu napřed a za ní pravička, perleťové nehty se kmitaly po klávesách a na prostředníku levé ruky žlutý prsten s černou růžičkou, Fonda dých, tichounce jsme zaduli nový akord, uchopil mě neurvale přítel slečny Weberové, voněl po pomerančích, tak to byl on, ona byla ty fialky, svými dvaceti prsty vzal každý můj prst mezi dva své a já vystoupil z nadýchnutého akordu a kozlím témbrem jsem se vysmýkal z jeskyně do záře pekelných ohňů, prsty mi pevně seděly na té jiné perleti, slyšel jsem, jak slečna Weberová udeřila, ale tiše, nikde neslyšený akord, a smýkal jsem se mimo akcenty přes jiný, dýchnutý kapelou, nahoru a nahoru, až už to dál nešlo a zřítil jsem se na cé, na há, na bé, kozel zamečel a zaprskal býk, Venca provedl několik chraplavých smyků a prstíky slečny Weberové si opět pohrály vysoko na černém výsluní černých kláves, když vtom je okřikla Bennova trumpeta, drsným, sprostým frázováním zlomila slečninu škádlivou fugu, bůhví jak, za námi zaduněl Brynychův velký buben a slečna se podvolila, zdálo se mi, že radostně, a z fugy jako netopýr vyletěla _Sweet Georgia Brown_, Benno jí byl plný, mezi jeho opožděné synkopy počala slečna Weberová vrážet podivuhodné klíny obrovských akordů… _Iťsbeen said_… něco mezi dur a moll… _she knocks’em dead_… trumpetou se prodral Lexa, pak já, Venca, Fonda přisedl k nejzazšímu konci klávesnice a zabasoval, celá kapela se rozehřměla jako nějaká swingující filharmonie, jenom já věděl, odkud se to vzalo… _when she lands in town_… Tak jsme běsnili, až se žárovka na šňůře nad námi kymácela, a pootevřenými okny se valila na Kostelec muzika ani z Lince, ani z Chicaga, z pekla, slečna Weberová se mezi námi obratně proplétávala po svých černých notičkách, její štíhlá černá záda se kymácela nad černými klávesami, které vespod rozehřmíval Fonda do černavy přicházející bouře, a najednou se slečna Weberová se smíchem zhroutila na klávesnici a vyrobila ten vůbec nejfantastičtější akord, řev kapely utichl… _Sweet Georgia Brown_…
 
 „Slečno!“ řekl užasle Harýk. „Páni! Slečno Weberová!“
 
@@ -1134,7 +1252,7 @@ A čarodějka se smála na celé kolo a do černé sponky uvěznila neposlušn
 
 Když jsem se o půlnoci loučil se slečnou Weberovou pod perleťovým měsícem, řekl jsem, že ji políbím.
 
-„_Aber nicht auf den Mund!_“[\[29\]](./resources/undefined) pravila.
+„_Aber nicht auf den Mund!_“[^29] pravila.
 
 Vzal jsem ji tedy za sametku a odtáhl ji od opáleného, avšak od perleti nebe bílého krčku. Ani stopy po nějaké krevní podlitince. Mluvila pravdu. Byla to dívka z pekla.
 
@@ -1270,7 +1388,7 @@ Napili jsme se. Mělo to asi tak sto deset procent tekuté radosti a chutnalo t
 
 „Nemám!“ zvolal jsem. „Slečno Weberová, jak to můžete říct!“
 
-„Můžu, protože mám ve všem pravdu,“ pravila. „_Sie haben es selber gesagt!_“[\[30\]](./resources/undefined)
+„Můžu, protože mám ve všem pravdu,“ pravila. „_Sie haben es selber gesagt!_“[^30]
 
 „Možná že sem ji měl ošklivou. Ale teď si ji vyčistím, krásně, uvidíte –“
 
@@ -1354,7 +1472,7 @@ Tak jsem jí, mezi dvěma parafinovými svíčkami v tom čarodějnickém pří
 
 „Pletete se, slečno Weberová. V obou bodech.“
 
-„Já se nikdy nepletu. Ale to první je vyloučené. Jakmile mě někdo miluje, _dann liebt er mich absolut_[_\[31\]_](./resources/undefined). A není také možné, abych já nestačila sebevětšímu milovníkovi, protože já jsem něco _ganz extra_.“
+„Já se nikdy nepletu. Ale to první je vyloučené. Jakmile mě někdo miluje, _dann liebt er mich absolut_[_\[31\]_](../Text/prima_sezona_19.html#_ftn31). A není také možné, abych já nestačila sebevětšímu milovníkovi, protože já jsem něco _ganz extra_.“
 
 Had za ouškem vypadal velmi nebezpečně, její úvaha mě mátla.
 
@@ -1374,7 +1492,7 @@ Učinil jsem, jak řekla, i když podle šeptání posledních trosek rozumu to
 
 „Já vim, Karlo-Marie.“
 
-„Moje láska není,“ nahou rukou provedla ve vzduchu několik čarodějnických znamení, „– není láska… duše. _Ich hab Verbindung mit den dunkleren Elementen_[_\[32\]_](./resources/undefined)… a ty jsou přirozenosti mnohem… pevnější.“ Nadýchla se, kopečky se nadzdvihly, róba po nich sklouzla trochu níž. „Dosud jste jich neokusil,“ řekla.
+„Moje láska není,“ nahou rukou provedla ve vzduchu několik čarodějnických znamení, „– není láska… duše. _Ich hab Verbindung mit den dunkleren Elementen_[_\[32\]_](../Text/prima_sezona_19.html#_ftn32)… a ty jsou přirozenosti mnohem… pevnější.“ Nadýchla se, kopečky se nadzdvihly, róba po nich sklouzla trochu níž. „Dosud jste jich neokusil,“ řekla.
 
 Najednou jsem měl pocit, že jsem se proměnil v sopku. Láva se ve mně rozpínala strašlivým tektonickým tlakem.
 
@@ -1601,3 +1719,121 @@ A šel jsem.
 Když jsem se octl před domem, začalo pršet. Bylo mi to jedno. Bylo mi smutno, a jak začaly krápat ty kapky z té černavé oblohy, bylo mi najednou docela hezky smutno. V Mánesovic vile bylo Bennovo okno otevřené, déšť se rozšuměl a v něm, najednou, zase flexaton… snad se mi to zdálo… _hey-doo-dy, hay-doo-da_… zpíval kostelecký Rattenfänger, ten tlustý krysař mládí, a my tomu textu nerozuměli, tak jsme si ho vymýšleli, aby dával nějaký smysl… _where is the bird of Paradise_…_?_ Pohlédl jsem nahoru, k oknům Mariiny tetičky, a opravdu, vykláněla se z něj Marie a vytřepávala žlutou deku. Tetička byla asi nemocná a dobrá katolička Marie konala skutky… _it all seems wrong somehow_… zpíval Bennův flexaton, zahnul jsem pod jeho oknem k řece a táhnul jsem v dešti podle ní, veliké kapky dělaly na hladině veliká kola, kola se srážela s jinými koly, déšť šuměl a ochlazoval mě, ochlazoval… nízko nad lesem šedivé mraky… _cause you’re nobody’s sweetheart now_…
 
 </section>
+
+[^1]: Spolek válečných veteránů. _Pozn. red._
+
+[^2]: Zde odpočívá Karl von Weber, poručík c. a k. XVIII. Jízdního regimentu. Padl hrdinskou smrtí za císaře a vlast na něj nikdy nezapomene. _Pozn. red._
+
+[^3]: Ach! Krysař z Kostelce! _Pozn. red._
+
+[^4]: To je úplně magické. _Pozn. red._
+
+[^5]: Ale kde má flétnu? _Pozn. red._
+
+[^6]: Ach, to. _Pozn. red._
+
+[^7]: S tátou. _Pozn. red._
+
+[^8]: Táta je Rakušák. _Pozn. red._
+
+[^9]: Sukničkáři. _Pozn. red._
+
+[^10]: Strýček. _Pozn. red._
+
+[^11]: U vojenského hřbitova. _Pozn. red._
+
+[^12]: Americká filmová komedie z roku 1937. _Pozn. red._
+
+[^13]: Je to krysař z Kostelce? _Pozn. red._
+
+[^14]: Vy nevěříte mým kouzlům! _Pozn. red._
+
+[^15]: Nic jiného? _Pozn. red._
+
+[^16]: Není-liž pravda? _Pozn. red._
+
+[^17]: Darebák. _Pozn. red_
+
+[^18]: Omluvte mě na moment! _Pozn. red._
+
+[^19]: Ach ten. To byl někdo jiný. _Pozn. red._
+
+[^20]: Opravdu? A jak? _Pozn. red._
+
+[^21]: Vy mě milujete. To je vidět. _Pozn. red._
+
+[^22]: Teď pište. _Pozn. red._
+
+[^23]: Stát! _Pozn. red._
+
+[^24]: No jasně … slečna Weberová. _Pozn. red._
+
+[^25]: Zatraceně, znovu! _Pozn. red._
+
+[^26]: Ach tohle. To nic. _Pozn. red._
+
+[^27]: To bych zemřela. _Pozn. red._
+
+[^28]: Dusítko. _Pozn. red._
+
+[^29]: Ale ne na ústa! _Pozn. red._
+
+[^30]: Sám jste to řekl. _Pozn. red._
+
+[^31]: … pak mě miluje absolutně. _Pozn. red._
+
+[^32]: Jsem spojena s temnými silami… _Pozn. red._
+
+[^33]: No tak… četli jste to? _Pozn. red._
+
+[^34]: … pro kulturní činnost v protektorátu Čechy a Morava… _Pozn. red._
+
+[^35]: Čtěte nahlas. _Pozn. red._
+
+[^36]: …já nevím, ale mě se zdá, že tam žádné nejsou. _Pozn. red._
+
+[^37]: Žádné? Říkáte žádné? _Pozn. red._
+
+[^38]: Plněné modrými „kapry“ (v němčině Karpfen). _Pozn. red._
+
+[^39]: Plněná ryba, Danieli, je tradiční jídlo východoevropských Židů. Velmi chutné. _Pozn. red._
+
+[^40]: Radostí k síle – nacistická organizace KdF, jejímž cílem bylo ideologicky ovlivňovat a organizovat volný čas obyvatelstva. _Pozn. red._
+
+[^41]: … moji čeští pánové… _Pozn. red._
+
+[^42]: … zvrhlé umění – termín, který byl používán nacisty pro většinu moderního umění. _Pozn. red._
+
+[^43]: … krev a půda. _Pozn. red._
+
+[^44]: Prosím. _Pozn. red._
+
+[^45]: Co chcete? _Pozn. red._
+
+[^46]: Prosím… To je chyba. _Pozn. red._
+
+[^47]: A jaká chyba to má být? _Pozn. red._
+
+[^48]: Má tam být přehláska. _Pozn. red._
+
+[^49]: To je poetický obraz. _Pozn. red_.
+
+[^50]: Druh alpského tance. _Pozn. red._
+
+[^51]: Chlapci a dívky. _Pozn. red._
+
+[^52]: Zábavná kapela. _Pozn. red_.
+
+[^53]: Dechovka. _Pozn. red._
+
+[^54]: Teď je to mnohem hezčí. _Pozn. red._
+
+[^55]: Schváleno. _Pozn. red._
+
+[^56]: Školní písemná zkouška, kompozice (slang.) _Pozn. red._
+
+[^57]: Náhražku hlavy. _Pozn. red._
+
+[^58]: Ubytovávání. _Pozn. red._
+
+[^59]: Dobový název typu výstředně se oblékající a chovající dívky. _Pozn. red._
