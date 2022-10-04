@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "skvorecky-prima-sezona-3454bfb",
-  "revision": "3454bfb",
+  "identifier": "skvorecky-prima-sezona-bcd1433",
+  "revision": "bcd1433",
   "readingOrder": [
     "promo.html",
     "prima_sezona_05.html",
@@ -24,8 +24,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:02:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640170940
+    "date": "Tue Oct 04 2022 16:51:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902280306
   },
   "documents": [
     {
@@ -103,9 +103,9 @@
     {
       "title": "MÁJOVÁ     KOUZELNICE",
       "file": "prima_sezona_09.html",
-      "words": 15154,
-      "chars": 90879,
-      "ideas": 796,
+      "words": 15218,
+      "chars": 91202,
+      "ideas": 807,
       "role": "chapter",
       "order": 4,
       "prev": "prima_sezona_07.html",
@@ -123,9 +123,9 @@
     {
       "title": "ZAMŘÍŽOVANÝ     CHARLESTON",
       "file": "prima_sezona_11.html",
-      "words": 10228,
-      "chars": 60381,
-      "ideas": 479,
+      "words": 10352,
+      "chars": 61039,
+      "ideas": 492,
       "role": "chapter",
       "order": 5,
       "prev": "prima_sezona_09.html",
@@ -223,9 +223,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 167,
+      "words": 166,
       "chars": 1190,
-      "ideas": 18,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "prima_sezona_19.html",
@@ -243,14 +243,14 @@
   ],
   "totals": {
     "all": {
-      "words": 61947,
-      "chars": 359821,
-      "ideas": 3259
+      "words": 62134,
+      "chars": 360802,
+      "ideas": 3282
     },
     "chapters": {
-      "words": 61774,
-      "chars": 358593,
-      "ideas": 3237
+      "words": 61962,
+      "chars": 359574,
+      "ideas": 3261
     }
   }
 }
