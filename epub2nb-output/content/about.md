@@ -68,7 +68,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^57]: Náhražku hlavy. _Pozn. red._  
 [^58]: Ubytovávání. _Pozn. red._  
 [^59]: Dobový název typu výstředně se oblékající a chovající dívky. _Pozn. red._  
-V MKP 2. elektronické vydání z 7. 10. 2022.
+V MKP 2. elektronické vydání z 10. 10. 2022.
 
 ***
 
@@ -87,7 +87,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-ŠKVORECKÝ, Josef. _Prima sezóna_ \[online\]. V MKP 2. elektronické vydání z 7. 10. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 7. 10. 2022]. ISBN 978-80-7532-746-8 (epub). Dostupné z:
+ŠKVORECKÝ, Josef. _Prima sezóna_ \[online\]. V MKP 2. elektronické vydání z 10. 10. 2022. Praha: Městská knihovna v Praze, 2017 \[cit. 10. 10. 2022]. ISBN 978-80-7532-746-8 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/33/49/95/prima\_sezona.epub](http://web2.mlp.cz/koweb/00/04/33/49/95/prima_sezona.epub).
 
